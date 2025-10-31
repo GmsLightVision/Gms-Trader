@@ -1,0 +1,1921 @@
+[2025-10-23T20:47:40.573Z] Conectando à Deriv (R_50)...
+[2025-10-23T20:47:41.126Z] ✅ Autorizado — Saldo: 4955.75
+[2025-10-23T20:47:42.205Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=N/A
+[2025-10-23T20:47:42.875Z] 🟢 Contrato comprado — ID=297558665208, stake=0.36
+[2025-10-23T20:47:44.156Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=N/A
+[2025-10-23T20:47:44.808Z] 🟢 Contrato comprado — ID=297558667548, stake=0.36
+[2025-10-23T20:47:46.142Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=N/A
+[2025-10-23T20:47:46.762Z] 🟢 Contrato comprado — ID=297558670148, stake=0.36
+[2025-10-23T20:47:47.172Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:47:48.151Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:47:48.869Z] 🟢 Contrato comprado — ID=297558672508, stake=0.36
+[2025-10-23T20:47:49.166Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:47:50.124Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:47:50.789Z] 🟢 Contrato comprado — ID=297558674928, stake=0.36
+[2025-10-23T20:47:51.146Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:47:52.145Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:47:52.804Z] 🟢 Contrato comprado — ID=297558677748, stake=0.36
+[2025-10-23T20:47:53.132Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:47:54.169Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:47:54.813Z] 🟢 Contrato comprado — ID=297558680168, stake=0.36
+[2025-10-23T20:47:55.126Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:47:56.130Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:47:56.763Z] 🟢 Contrato comprado — ID=297558682948, stake=0.36
+[2025-10-23T20:47:57.235Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:47:58.134Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:47:59.070Z] 🟢 Contrato comprado — ID=297558686368, stake=0.72
+[2025-10-23T20:47:59.684Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:00.104Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:48:00.247Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:01.166Z] 🟢 Contrato comprado — ID=297558690228, stake=1.44
+[2025-10-23T20:48:02.163Z] [TICK] lastDigit=6 | stake=2.88 | lastResult=LOSS
+[2025-10-23T20:48:02.800Z] 🟢 Contrato comprado — ID=297558692268, stake=2.88
+[2025-10-23T20:48:03.514Z] 💰 Resultado: WIN | Lucro=0.68
+[2025-10-23T20:48:04.175Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:04.861Z] 🟢 Contrato comprado — ID=297558694868, stake=0.36
+[2025-10-23T20:48:05.594Z] 💰 Resultado: LOSS | Lucro=-1.44
+[2025-10-23T20:48:06.098Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:06.734Z] 🟢 Contrato comprado — ID=297558696968, stake=0.72
+[2025-10-23T20:48:07.098Z] 💰 Resultado: LOSS | Lucro=-2.88
+[2025-10-23T20:48:08.143Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:48:08.758Z] 🟢 Contrato comprado — ID=297558699688, stake=1.44
+[2025-10-23T20:48:09.148Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:10.117Z] [TICK] lastDigit=6 | stake=2.88 | lastResult=LOSS
+[2025-10-23T20:48:10.770Z] 🟢 Contrato comprado — ID=297558701848, stake=2.88
+[2025-10-23T20:48:11.319Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:48:12.113Z] [TICK] lastDigit=6 | stake=5.76 | lastResult=LOSS
+[2025-10-23T20:48:12.783Z] 🟢 Contrato comprado — ID=297558704408, stake=5.76
+[2025-10-23T20:48:13.069Z] 💰 Resultado: LOSS | Lucro=-1.44
+[2025-10-23T20:48:14.122Z] [TICK] lastDigit=6 | stake=11.52 | lastResult=LOSS
+[2025-10-23T20:48:14.717Z] 🟢 Contrato comprado — ID=297558706688, stake=11.52
+[2025-10-23T20:48:15.465Z] 💰 Resultado: WIN | Lucro=2.75
+[2025-10-23T20:48:16.131Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:16.760Z] 🟢 Contrato comprado — ID=297558709008, stake=0.36
+[2025-10-23T20:48:17.129Z] 💰 Resultado: LOSS | Lucro=-5.76
+[2025-10-23T20:48:18.106Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:18.728Z] 🟢 Contrato comprado — ID=297558711408, stake=0.72
+[2025-10-23T20:48:19.145Z] 💰 Resultado: WIN | Lucro=10.98
+[2025-10-23T20:48:20.101Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:20.727Z] 🟢 Contrato comprado — ID=297558713748, stake=0.36
+[2025-10-23T20:48:21.078Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:22.135Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:22.943Z] 🟢 Contrato comprado — ID=297558716628, stake=0.36
+[2025-10-23T20:48:23.011Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:48:24.124Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:24.777Z] 🟢 Contrato comprado — ID=297558718908, stake=0.72
+[2025-10-23T20:48:25.261Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:26.139Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:48:26.767Z] 🟢 Contrato comprado — ID=297558721008, stake=1.44
+[2025-10-23T20:48:27.161Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:28.128Z] [TICK] lastDigit=6 | stake=2.88 | lastResult=LOSS
+[2025-10-23T20:48:28.724Z] 🟢 Contrato comprado — ID=297558723448, stake=2.88
+[2025-10-23T20:48:29.081Z] 💰 Resultado: WIN | Lucro=0.68
+[2025-10-23T20:48:30.104Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:30.725Z] 🟢 Contrato comprado — ID=297558725828, stake=0.36
+[2025-10-23T20:48:31.009Z] 💰 Resultado: WIN | Lucro=1.37
+[2025-10-23T20:48:32.109Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:32.725Z] 🟢 Contrato comprado — ID=297558728408, stake=0.36
+[2025-10-23T20:48:32.994Z] 💰 Resultado: WIN | Lucro=2.75
+[2025-10-23T20:48:34.109Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:34.765Z] 🟢 Contrato comprado — ID=297558731728, stake=0.36
+[2025-10-23T20:48:36.103Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:36.617Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:36.739Z] 🟢 Contrato comprado — ID=297558734128, stake=0.36
+[2025-10-23T20:48:37.296Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:38.117Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:39.068Z] 🟢 Contrato comprado — ID=297558736668, stake=0.36
+[2025-10-23T20:48:39.232Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:48:40.138Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:40.773Z] 🟢 Contrato comprado — ID=297558738708, stake=0.72
+[2025-10-23T20:48:40.975Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:42.091Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:42.708Z] 🟢 Contrato comprado — ID=297558741428, stake=0.36
+[2025-10-23T20:48:42.964Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:44.126Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:44.756Z] 🟢 Contrato comprado — ID=297558743868, stake=0.36
+[2025-10-23T20:48:45.004Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:48:46.095Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:46.703Z] 🟢 Contrato comprado — ID=297558745968, stake=0.72
+[2025-10-23T20:48:46.976Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:48.141Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:49.900Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:49.905Z] 🟢 Contrato comprado — ID=297558749028, stake=0.36
+[2025-10-23T20:48:50.157Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:50.656Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:48:50.996Z] 🟢 Contrato comprado — ID=297558750828, stake=0.36
+[2025-10-23T20:48:52.126Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:48:52.773Z] 🟢 Contrato comprado — ID=297558752988, stake=0.72
+[2025-10-23T20:48:52.850Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:54.107Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:54.770Z] 🟢 Contrato comprado — ID=297558755468, stake=0.36
+[2025-10-23T20:48:55.238Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:56.176Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:56.798Z] 🟢 Contrato comprado — ID=297558758408, stake=0.36
+[2025-10-23T20:48:57.953Z] 💰 Resultado: WIN | Lucro=0.68
+[2025-10-23T20:48:58.092Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:48:58.628Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:48:59.195Z] 🟢 Contrato comprado — ID=297558761568, stake=0.36
+[2025-10-23T20:49:00.136Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:00.595Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:00.795Z] 🟢 Contrato comprado — ID=297558763748, stake=0.36
+[2025-10-23T20:49:02.135Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:02.766Z] 🟢 Contrato comprado — ID=297558766308, stake=0.36
+[2025-10-23T20:49:03.493Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:04.108Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:49:04.807Z] 🟢 Contrato comprado — ID=297558768428, stake=0.72
+[2025-10-23T20:49:05.110Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:06.149Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:49:06.768Z] 🟢 Contrato comprado — ID=297558770708, stake=1.44
+[2025-10-23T20:49:07.082Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:08.124Z] [TICK] lastDigit=6 | stake=2.88 | lastResult=LOSS
+[2025-10-23T20:49:08.767Z] 🟢 Contrato comprado — ID=297558772948, stake=2.88
+[2025-10-23T20:49:09.076Z] 💰 Resultado: WIN | Lucro=0.68
+[2025-10-23T20:49:10.104Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:10.747Z] 🟢 Contrato comprado — ID=297558775148, stake=0.36
+[2025-10-23T20:49:11.011Z] 💰 Resultado: WIN | Lucro=1.37
+[2025-10-23T20:49:12.120Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:12.735Z] 🟢 Contrato comprado — ID=297558777268, stake=0.36
+[2025-10-23T20:49:13.076Z] 💰 Resultado: LOSS | Lucro=-2.88
+[2025-10-23T20:49:14.115Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:49:14.762Z] 🟢 Contrato comprado — ID=297558779668, stake=0.72
+[2025-10-23T20:49:15.109Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:16.106Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:49:16.698Z] 🟢 Contrato comprado — ID=297558781948, stake=1.44
+[2025-10-23T20:49:17.001Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:18.129Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:18.747Z] 🟢 Contrato comprado — ID=297558784348, stake=0.36
+[2025-10-23T20:49:19.085Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:49:20.138Z] [TICK] lastDigit=6 | stake=0.72 | lastResult=LOSS
+[2025-10-23T20:49:20.830Z] 🟢 Contrato comprado — ID=297558786448, stake=0.72
+[2025-10-23T20:49:20.934Z] 💰 Resultado: LOSS | Lucro=-1.44
+[2025-10-23T20:49:22.083Z] [TICK] lastDigit=6 | stake=1.44 | lastResult=LOSS
+[2025-10-23T20:49:22.702Z] 🟢 Contrato comprado — ID=297558789028, stake=1.44
+[2025-10-23T20:49:23.144Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:24.119Z] [TICK] lastDigit=6 | stake=3.17 | lastResult=LOSS
+[2025-10-23T20:49:24.758Z] 🟢 Contrato comprado — ID=297558791448, stake=3.17
+[2025-10-23T20:49:25.148Z] 💰 Resultado: LOSS | Lucro=-0.72
+[2025-10-23T20:49:26.103Z] [TICK] lastDigit=6 | stake=6.97 | lastResult=LOSS
+[2025-10-23T20:49:26.737Z] 🟢 Contrato comprado — ID=297558793608, stake=6.97
+[2025-10-23T20:49:26.975Z] 💰 Resultado: WIN | Lucro=1.37
+[2025-10-23T20:49:28.107Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:28.741Z] 🟢 Contrato comprado — ID=297558796288, stake=0.36
+[2025-10-23T20:49:28.970Z] 💰 Resultado: WIN | Lucro=3.02
+[2025-10-23T20:49:30.134Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:30.794Z] 🟢 Contrato comprado — ID=297558797908, stake=0.36
+[2025-10-23T20:49:30.996Z] 💰 Resultado: LOSS | Lucro=-6.97
+[2025-10-23T20:49:32.115Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:49:32.747Z] 🟢 Contrato comprado — ID=297558800228, stake=0.79
+[2025-10-23T20:49:32.975Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:34.120Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:34.714Z] 🟢 Contrato comprado — ID=297558802668, stake=0.36
+[2025-10-23T20:49:35.076Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:36.113Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:36.755Z] 🟢 Contrato comprado — ID=297558804888, stake=0.36
+[2025-10-23T20:49:37.539Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:49:38.125Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:49:39.577Z] 🟢 Contrato comprado — ID=297558807348, stake=0.79
+[2025-10-23T20:49:39.582Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:40.128Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:40.751Z] 🟢 Contrato comprado — ID=297558809388, stake=0.36
+[2025-10-23T20:49:41.103Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:42.119Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:42.748Z] 🟢 Contrato comprado — ID=297558811988, stake=0.36
+[2025-10-23T20:49:43.530Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:49:44.228Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:44.875Z] 🟢 Contrato comprado — ID=297558814748, stake=0.36
+[2025-10-23T20:49:45.102Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:46.138Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:49:46.867Z] 🟢 Contrato comprado — ID=297558816768, stake=0.79
+[2025-10-23T20:49:47.223Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:48.124Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:48.829Z] 🟢 Contrato comprado — ID=297558819588, stake=0.36
+[2025-10-23T20:49:49.229Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:50.118Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:49:50.764Z] 🟢 Contrato comprado — ID=297558821508, stake=0.79
+[2025-10-23T20:49:51.198Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:49:52.110Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:49:52.730Z] 🟢 Contrato comprado — ID=297558824088, stake=1.74
+[2025-10-23T20:49:53.167Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:49:54.093Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:54.713Z] 🟢 Contrato comprado — ID=297558826468, stake=0.36
+[2025-10-23T20:49:55.074Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:49:56.132Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:56.769Z] 🟢 Contrato comprado — ID=297558829388, stake=0.36
+[2025-10-23T20:49:57.113Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:49:58.124Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:49:58.560Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:49:59.068Z] 🟢 Contrato comprado — ID=297558832608, stake=0.36
+[2025-10-23T20:50:00.163Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:00.969Z] 🟢 Contrato comprado — ID=297558835128, stake=0.79
+[2025-10-23T20:50:01.522Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:02.108Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:02.260Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:02.792Z] 🟢 Contrato comprado — ID=297558837268, stake=0.36
+[2025-10-23T20:50:04.135Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:04.776Z] 🟢 Contrato comprado — ID=297558839948, stake=0.36
+[2025-10-23T20:50:05.235Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:50:06.262Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:06.905Z] 🟢 Contrato comprado — ID=297558842408, stake=0.79
+[2025-10-23T20:50:07.149Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:08.100Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:08.876Z] 🟢 Contrato comprado — ID=297558844848, stake=0.36
+[2025-10-23T20:50:09.127Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:10.133Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:10.782Z] 🟢 Contrato comprado — ID=297558847228, stake=0.79
+[2025-10-23T20:50:11.301Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:50:12.108Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:12.753Z] 🟢 Contrato comprado — ID=297558849568, stake=0.36
+[2025-10-23T20:50:13.451Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:14.111Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:14.829Z] 🟢 Contrato comprado — ID=297558852268, stake=0.36
+[2025-10-23T20:50:15.452Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:50:16.136Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:16.859Z] 🟢 Contrato comprado — ID=297558855588, stake=0.36
+[2025-10-23T20:50:17.073Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:18.135Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:18.782Z] 🟢 Contrato comprado — ID=297558858188, stake=0.36
+[2025-10-23T20:50:19.126Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:20.164Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:20.794Z] 🟢 Contrato comprado — ID=297558860028, stake=0.79
+[2025-10-23T20:50:21.186Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:22.121Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:50:22.760Z] 🟢 Contrato comprado — ID=297558863888, stake=1.74
+[2025-10-23T20:50:23.087Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:24.120Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:50:24.771Z] 🟢 Contrato comprado — ID=297558866508, stake=3.83
+[2025-10-23T20:50:25.156Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:50:26.087Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:26.994Z] 🟢 Contrato comprado — ID=297558870008, stake=0.36
+[2025-10-23T20:50:27.296Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:50:28.369Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:28.979Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:50:28.985Z] 🟢 Contrato comprado — ID=297558872368, stake=0.36
+[2025-10-23T20:50:30.112Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:30.721Z] 🟢 Contrato comprado — ID=297558874408, stake=0.36
+[2025-10-23T20:50:31.609Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:32.142Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:32.841Z] 🟢 Contrato comprado — ID=297558878088, stake=0.79
+[2025-10-23T20:50:33.267Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:34.120Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:50:34.723Z] 🟢 Contrato comprado — ID=297558881788, stake=1.74
+[2025-10-23T20:50:35.088Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:36.124Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:50:36.783Z] 🟢 Contrato comprado — ID=297558883708, stake=3.83
+[2025-10-23T20:50:37.126Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:50:38.096Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:38.721Z] 🟢 Contrato comprado — ID=297558885728, stake=0.36
+[2025-10-23T20:50:39.058Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:50:40.123Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:40.770Z] 🟢 Contrato comprado — ID=297558888308, stake=0.36
+[2025-10-23T20:50:41.089Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:50:42.130Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:42.759Z] 🟢 Contrato comprado — ID=297558891248, stake=0.36
+[2025-10-23T20:50:43.075Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:44.117Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:44.743Z] 🟢 Contrato comprado — ID=297558893508, stake=0.36
+[2025-10-23T20:50:45.084Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:46.126Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:46.965Z] 🟢 Contrato comprado — ID=297558896388, stake=0.79
+[2025-10-23T20:50:47.070Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:48.137Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:50:48.792Z] 🟢 Contrato comprado — ID=297558898348, stake=1.74
+[2025-10-23T20:50:49.166Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:50:50.139Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:50:50.959Z] 🟢 Contrato comprado — ID=297558901388, stake=0.36
+[2025-10-23T20:50:51.836Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:50:52.121Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:50:52.769Z] 🟢 Contrato comprado — ID=297558903608, stake=0.79
+[2025-10-23T20:50:53.299Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:50:54.145Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:50:54.760Z] 🟢 Contrato comprado — ID=297558906468, stake=1.74
+[2025-10-23T20:50:55.216Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:50:56.146Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:50:57.185Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:50:57.295Z] 🟢 Contrato comprado — ID=297558910788, stake=3.83
+[2025-10-23T20:50:58.159Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T20:50:58.485Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:50:58.981Z] 🟢 Contrato comprado — ID=297558913468, stake=8.43
+[2025-10-23T20:51:00.137Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T20:51:00.806Z] 🟢 Contrato comprado — ID=297558915968, stake=18.55
+[2025-10-23T20:51:00.815Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:51:02.092Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:02.733Z] 🟢 Contrato comprado — ID=297558918608, stake=0.36
+[2025-10-23T20:51:03.173Z] 💰 Resultado: LOSS | Lucro=-8.43
+[2025-10-23T20:51:04.132Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:05.145Z] 🟢 Contrato comprado — ID=297558923468, stake=0.79
+[2025-10-23T20:51:05.148Z] 💰 Resultado: LOSS | Lucro=-18.55
+[2025-10-23T20:51:06.126Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:51:07.053Z] 🟢 Contrato comprado — ID=297558926048, stake=1.74
+[2025-10-23T20:51:07.135Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:08.112Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:51:08.778Z] 🟢 Contrato comprado — ID=297558928588, stake=3.83
+[2025-10-23T20:51:09.501Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:51:10.122Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:10.792Z] 🟢 Contrato comprado — ID=297558930828, stake=0.36
+[2025-10-23T20:51:11.605Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:51:12.094Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:12.751Z] 🟢 Contrato comprado — ID=297558933468, stake=0.36
+[2025-10-23T20:51:13.050Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:51:14.089Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:14.710Z] 🟢 Contrato comprado — ID=297558935428, stake=0.36
+[2025-10-23T20:51:15.148Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:16.106Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:16.750Z] 🟢 Contrato comprado — ID=297558938108, stake=0.79
+[2025-10-23T20:51:17.063Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:18.092Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:51:18.689Z] 🟢 Contrato comprado — ID=297558940288, stake=1.74
+[2025-10-23T20:51:18.970Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:20.126Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:51:20.751Z] 🟢 Contrato comprado — ID=297558942348, stake=3.83
+[2025-10-23T20:51:21.116Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:51:22.104Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:22.722Z] 🟢 Contrato comprado — ID=297558944868, stake=0.36
+[2025-10-23T20:51:22.954Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:51:24.111Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:24.774Z] 🟢 Contrato comprado — ID=297558948488, stake=0.36
+[2025-10-23T20:51:24.973Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:51:26.103Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:26.768Z] 🟢 Contrato comprado — ID=297558951028, stake=0.36
+[2025-10-23T20:51:27.149Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:51:28.087Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:28.749Z] 🟢 Contrato comprado — ID=297558953388, stake=0.36
+[2025-10-23T20:51:29.041Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:30.099Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:30.740Z] 🟢 Contrato comprado — ID=297558955608, stake=0.79
+[2025-10-23T20:51:31.296Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:32.118Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:51:32.735Z] 🟢 Contrato comprado — ID=297558958088, stake=1.74
+[2025-10-23T20:51:33.061Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:34.074Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:51:35.094Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:51:35.099Z] 🟢 Contrato comprado — ID=297558966028, stake=3.83
+[2025-10-23T20:51:36.103Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:36.750Z] 🟢 Contrato comprado — ID=297558968448, stake=0.36
+[2025-10-23T20:51:37.073Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:51:38.132Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:38.767Z] 🟢 Contrato comprado — ID=297558970888, stake=0.36
+[2025-10-23T20:51:39.324Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T20:51:40.118Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:40.731Z] 🟢 Contrato comprado — ID=297558972848, stake=0.79
+[2025-10-23T20:51:41.037Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:42.102Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:51:42.761Z] 🟢 Contrato comprado — ID=297558975788, stake=1.74
+[2025-10-23T20:51:43.083Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:51:44.083Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:44.722Z] 🟢 Contrato comprado — ID=297558977888, stake=0.36
+[2025-10-23T20:51:44.958Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:51:46.118Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:46.961Z] 🟢 Contrato comprado — ID=297558980288, stake=0.79
+[2025-10-23T20:51:46.995Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:51:48.108Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:48.796Z] 🟢 Contrato comprado — ID=297558982188, stake=0.36
+[2025-10-23T20:51:49.064Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:51:50.128Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:50.834Z] 🟢 Contrato comprado — ID=297558984548, stake=0.36
+[2025-10-23T20:51:51.346Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:51:52.515Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:53.148Z] 🟢 Contrato comprado — ID=297558987348, stake=0.36
+[2025-10-23T20:51:53.841Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:54.113Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:51:54.810Z] 🟢 Contrato comprado — ID=297558989188, stake=0.79
+[2025-10-23T20:51:55.142Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:51:56.148Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:51:56.865Z] 🟢 Contrato comprado — ID=297558992488, stake=1.74
+[2025-10-23T20:51:57.703Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:51:58.097Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:51:58.896Z] 🟢 Contrato comprado — ID=297558995208, stake=0.36
+[2025-10-23T20:51:59.592Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:52:00.112Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:00.757Z] 🟢 Contrato comprado — ID=297558997528, stake=0.79
+[2025-10-23T20:52:01.542Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:52:02.132Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:52:02.763Z] 🟢 Contrato comprado — ID=297559000008, stake=1.74
+[2025-10-23T20:52:03.183Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:04.242Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:52:04.862Z] 🟢 Contrato comprado — ID=297559002548, stake=3.83
+[2025-10-23T20:52:05.379Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:52:06.101Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:06.703Z] 🟢 Contrato comprado — ID=297559005028, stake=0.36
+[2025-10-23T20:52:06.994Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:52:08.094Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:08.730Z] 🟢 Contrato comprado — ID=297559007088, stake=0.79
+[2025-10-23T20:52:09.536Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T20:52:10.103Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:52:11.503Z] 🟢 Contrato comprado — ID=297559009608, stake=1.74
+[2025-10-23T20:52:11.530Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:52:12.102Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:12.790Z] 🟢 Contrato comprado — ID=297559011408, stake=0.36
+[2025-10-23T20:52:13.071Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:52:14.097Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:14.464Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:52:14.698Z] 🟢 Contrato comprado — ID=297559013948, stake=0.79
+[2025-10-23T20:52:16.093Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:16.742Z] 🟢 Contrato comprado — ID=297559015988, stake=0.36
+[2025-10-23T20:52:17.147Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:52:18.098Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:18.896Z] 🟢 Contrato comprado — ID=297559018548, stake=0.36
+[2025-10-23T20:52:19.021Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:52:20.341Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:20.947Z] 🟢 Contrato comprado — ID=297559021628, stake=0.36
+[2025-10-23T20:52:21.161Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:22.127Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:22.739Z] 🟢 Contrato comprado — ID=297559023868, stake=0.79
+[2025-10-23T20:52:23.444Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:24.140Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:52:24.776Z] 🟢 Contrato comprado — ID=297559026308, stake=1.74
+[2025-10-23T20:52:25.560Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:26.149Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:52:26.796Z] 🟢 Contrato comprado — ID=297559029528, stake=3.83
+[2025-10-23T20:52:27.092Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:52:28.117Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:28.738Z] 🟢 Contrato comprado — ID=297559031688, stake=0.36
+[2025-10-23T20:52:29.172Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:52:30.093Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:30.697Z] 🟢 Contrato comprado — ID=297559034148, stake=0.79
+[2025-10-23T20:52:31.132Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:52:32.151Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:32.782Z] 🟢 Contrato comprado — ID=297559036748, stake=0.36
+[2025-10-23T20:52:33.023Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:34.111Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:34.746Z] 🟢 Contrato comprado — ID=297559039308, stake=0.79
+[2025-10-23T20:52:36.128Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:52:36.300Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:52:36.824Z] 🟢 Contrato comprado — ID=297559042288, stake=1.74
+[2025-10-23T20:52:37.067Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:38.126Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:52:39.354Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:52:39.869Z] 🟢 Contrato comprado — ID=297559050368, stake=3.83
+[2025-10-23T20:52:40.082Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T20:52:40.725Z] 🟢 Contrato comprado — ID=297559051928, stake=8.43
+[2025-10-23T20:52:41.239Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:52:42.118Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:42.752Z] 🟢 Contrato comprado — ID=297559054788, stake=0.36
+[2025-10-23T20:52:42.819Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:52:44.113Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:44.757Z] 🟢 Contrato comprado — ID=297559056588, stake=0.36
+[2025-10-23T20:52:44.990Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T20:52:46.149Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:46.766Z] 🟢 Contrato comprado — ID=297559058848, stake=0.36
+[2025-10-23T20:52:47.163Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:48.110Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:49.051Z] 🟢 Contrato comprado — ID=297559060848, stake=0.79
+[2025-10-23T20:52:49.075Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:50.113Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:52:50.756Z] 🟢 Contrato comprado — ID=297559062948, stake=1.74
+[2025-10-23T20:52:52.135Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:52:52.302Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:52:52.735Z] 🟢 Contrato comprado — ID=297559064968, stake=3.83
+[2025-10-23T20:52:53.399Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:52:54.130Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:54.788Z] 🟢 Contrato comprado — ID=297559067388, stake=0.36
+[2025-10-23T20:52:55.150Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T20:52:56.106Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:52:56.732Z] 🟢 Contrato comprado — ID=297559070208, stake=0.79
+[2025-10-23T20:52:57.330Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T20:52:58.120Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:52:58.836Z] 🟢 Contrato comprado — ID=297559072908, stake=0.36
+[2025-10-23T20:52:59.204Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:00.099Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:53:00.787Z] 🟢 Contrato comprado — ID=297559075628, stake=0.79
+[2025-10-23T20:53:01.067Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:53:02.129Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:02.820Z] 🟢 Contrato comprado — ID=297559078088, stake=0.36
+[2025-10-23T20:53:03.121Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:04.113Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:04.793Z] 🟢 Contrato comprado — ID=297559080808, stake=0.36
+[2025-10-23T20:53:05.785Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:53:06.198Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:06.814Z] 🟢 Contrato comprado — ID=297559083048, stake=0.36
+[2025-10-23T20:53:07.199Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:08.116Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:08.926Z] 🟢 Contrato comprado — ID=297559085088, stake=0.36
+[2025-10-23T20:53:09.224Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:10.123Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:53:10.742Z] 🟢 Contrato comprado — ID=297559087068, stake=0.79
+[2025-10-23T20:53:11.339Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:12.107Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:53:12.780Z] 🟢 Contrato comprado — ID=297559089468, stake=1.74
+[2025-10-23T20:53:13.185Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:14.181Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:14.859Z] 🟢 Contrato comprado — ID=297559091928, stake=0.36
+[2025-10-23T20:53:15.047Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T20:53:16.123Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:16.847Z] 🟢 Contrato comprado — ID=297559094308, stake=0.36
+[2025-10-23T20:53:17.147Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:53:18.169Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:18.828Z] 🟢 Contrato comprado — ID=297559096508, stake=0.36
+[2025-10-23T20:53:19.232Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:20.125Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:20.781Z] 🟢 Contrato comprado — ID=297559098468, stake=0.36
+[2025-10-23T20:53:21.169Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:22.192Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:22.887Z] 🟢 Contrato comprado — ID=297559101048, stake=0.36
+[2025-10-23T20:53:24.133Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:24.449Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:24.783Z] 🟢 Contrato comprado — ID=297559103148, stake=0.36
+[2025-10-23T20:53:25.168Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:26.082Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:26.683Z] 🟢 Contrato comprado — ID=297559105108, stake=0.36
+[2025-10-23T20:53:28.172Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:28.498Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:28.804Z] 🟢 Contrato comprado — ID=297559107628, stake=0.36
+[2025-10-23T20:53:29.086Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:30.145Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:30.821Z] 🟢 Contrato comprado — ID=297559109828, stake=0.36
+[2025-10-23T20:53:31.944Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:32.128Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:53:32.818Z] 🟢 Contrato comprado — ID=297559111928, stake=0.79
+[2025-10-23T20:53:33.311Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:34.098Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:34.664Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:34.785Z] 🟢 Contrato comprado — ID=297559113988, stake=0.36
+[2025-10-23T20:53:36.167Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:53:36.860Z] 🟢 Contrato comprado — ID=297559115948, stake=0.79
+[2025-10-23T20:53:37.243Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:53:38.092Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T20:53:39.101Z] 🟢 Contrato comprado — ID=297559118468, stake=1.74
+[2025-10-23T20:53:39.459Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T20:53:40.164Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T20:53:40.837Z] 🟢 Contrato comprado — ID=297559120408, stake=3.83
+[2025-10-23T20:53:41.543Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T20:53:42.121Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T20:53:42.842Z] 🟢 Contrato comprado — ID=297559122868, stake=8.43
+[2025-10-23T20:53:43.838Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T20:53:44.093Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:44.744Z] 🟢 Contrato comprado — ID=297559124908, stake=0.36
+[2025-10-23T20:53:45.221Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T20:53:46.099Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T20:53:46.886Z] 🟢 Contrato comprado — ID=297559127188, stake=0.79
+[2025-10-23T20:53:47.153Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T20:53:48.442Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T20:53:49.065Z] 🟢 Contrato comprado — ID=297559129508, stake=0.36
+[2025-10-23T20:53:49.719Z] Bot parado (stopBot()).
+[2025-10-23T20:53:49.899Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T20:53:49.995Z] Conexão fechada. Tentando reconectar...
+[2025-10-23T21:10:14.285Z] Conectando à Deriv (R_50)...
+[2025-10-23T21:10:15.311Z] ✅ Autorizado — Saldo: 4971.8
+[2025-10-23T21:10:16.163Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:17.634Z] 🟢 Contrato comprado — ID=297560207668, stake=0.36
+[2025-10-23T21:10:18.235Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:19.031Z] 🟢 Contrato comprado — ID=297560209028, stake=0.36
+[2025-10-23T21:10:20.117Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:20.892Z] 🟢 Contrato comprado — ID=297560210788, stake=0.36
+[2025-10-23T21:10:21.108Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:10:22.097Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:10:22.880Z] 🟢 Contrato comprado — ID=297560212888, stake=0.79
+[2025-10-23T21:10:23.631Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:10:24.090Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:10:24.854Z] 🟢 Contrato comprado — ID=297560214488, stake=1.74
+[2025-10-23T21:10:26.276Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:10:26.280Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:10:27.471Z] 🟢 Contrato comprado — ID=297560216908, stake=3.83
+[2025-10-23T21:10:28.766Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:10:28.770Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:10:29.551Z] 🟢 Contrato comprado — ID=297560219628, stake=8.43
+[2025-10-23T21:10:30.113Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T21:10:30.186Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T21:10:30.853Z] 🟢 Contrato comprado — ID=297560220848, stake=18.55
+[2025-10-23T21:10:31.665Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T21:10:32.168Z] [TICK] lastDigit=6 | stake=40.81 | lastResult=LOSS
+[2025-10-23T21:10:33.430Z] 🟢 Contrato comprado — ID=297560222728, stake=40.81
+[2025-10-23T21:10:34.032Z] 💰 Resultado: LOSS | Lucro=-8.43
+[2025-10-23T21:10:34.078Z] [TICK] lastDigit=6 | stake=89.78 | lastResult=LOSS
+[2025-10-23T21:10:35.454Z] 🟢 Contrato comprado — ID=297560224648, stake=89.78
+[2025-10-23T21:10:35.457Z] 💰 Resultado: WIN | Lucro=17.68
+[2025-10-23T21:10:36.070Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:36.801Z] 💰 Resultado: LOSS | Lucro=-40.81
+[2025-10-23T21:10:36.868Z] 🟢 Contrato comprado — ID=297560226168, stake=0.36
+[2025-10-23T21:10:38.094Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:10:38.818Z] 🟢 Contrato comprado — ID=297560228028, stake=0.79
+[2025-10-23T21:10:39.970Z] 💰 Resultado: LOSS | Lucro=-89.78
+[2025-10-23T21:10:40.071Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:10:40.868Z] 🟢 Contrato comprado — ID=297560231788, stake=1.74
+[2025-10-23T21:10:41.514Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:10:42.881Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:44.325Z] 🟢 Contrato comprado — ID=297560234388, stake=0.36
+[2025-10-23T21:10:44.329Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:44.358Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:10:45.215Z] 🟢 Contrato comprado — ID=297560235648, stake=0.36
+[2025-10-23T21:10:45.747Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:10:47.043Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:10:47.835Z] 🟢 Contrato comprado — ID=297560238348, stake=0.79
+[2025-10-23T21:10:48.091Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:10:48.390Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:10:48.731Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:10:48.821Z] 🟢 Contrato comprado — ID=297560239308, stake=1.74
+[2025-10-23T21:10:50.096Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:10:50.836Z] 🟢 Contrato comprado — ID=297560241068, stake=3.83
+[2025-10-23T21:10:50.991Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:10:52.098Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:10:52.818Z] 🟢 Contrato comprado — ID=297560243128, stake=8.43
+[2025-10-23T21:10:53.452Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:10:54.085Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T21:10:54.823Z] 🟢 Contrato comprado — ID=297560244828, stake=18.55
+[2025-10-23T21:10:55.432Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T21:10:56.198Z] [TICK] lastDigit=6 | stake=40.81 | lastResult=LOSS
+[2025-10-23T21:10:57.016Z] 🟢 Contrato comprado — ID=297560247328, stake=40.81
+[2025-10-23T21:10:57.332Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T21:10:58.136Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:10:58.965Z] 🟢 Contrato comprado — ID=297560249908, stake=0.36
+[2025-10-23T21:10:59.906Z] 💰 Resultado: WIN | Lucro=17.68
+[2025-10-23T21:11:00.128Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:00.845Z] 🟢 Contrato comprado — ID=297560251828, stake=0.36
+[2025-10-23T21:11:01.780Z] 💰 Resultado: LOSS | Lucro=-40.81
+[2025-10-23T21:11:02.103Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:11:02.878Z] 🟢 Contrato comprado — ID=297560254088, stake=0.79
+[2025-10-23T21:11:03.722Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:04.078Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:11:04.823Z] 🟢 Contrato comprado — ID=297560255808, stake=1.74
+[2025-10-23T21:11:05.025Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:06.098Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:11:06.578Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:11:07.508Z] 🟢 Contrato comprado — ID=297560258128, stake=3.83
+[2025-10-23T21:11:08.120Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:11:08.954Z] 🟢 Contrato comprado — ID=297560260808, stake=8.43
+[2025-10-23T21:11:09.719Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T21:11:10.058Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:10.634Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:11:10.804Z] 🟢 Contrato comprado — ID=297560262488, stake=0.36
+[2025-10-23T21:11:12.157Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:13.238Z] 🟢 Contrato comprado — ID=297560264588, stake=0.36
+[2025-10-23T21:11:13.522Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T21:11:14.091Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:14.149Z] Bot parado (stopBot()).
+[2025-10-23T21:11:14.478Z] Conexão fechada. Tentando reconectar...
+[2025-10-23T21:11:14.481Z] ERRO compra: Conexão fechada
+[2025-10-23T21:11:15.143Z] Bot parado (stopBot()).
+[2025-10-23T21:11:15.366Z] Bot parado (stopBot()).
+[2025-10-23T21:11:15.622Z] Bot parado (stopBot()).
+[2025-10-23T21:11:15.880Z] Bot parado (stopBot()).
+[2025-10-23T21:11:31.127Z] Conectando à Deriv (R_50)...
+[2025-10-23T21:11:31.662Z] ✅ Autorizado — Saldo: 4835.18
+[2025-10-23T21:11:32.083Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:32.834Z] 🟢 Contrato comprado — ID=297560283088, stake=0.36
+[2025-10-23T21:11:34.202Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:34.992Z] 🟢 Contrato comprado — ID=297560285148, stake=0.36
+[2025-10-23T21:11:36.072Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:36.838Z] 🟢 Contrato comprado — ID=297560286968, stake=0.36
+[2025-10-23T21:11:37.066Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:38.073Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:11:38.860Z] 🟢 Contrato comprado — ID=297560288928, stake=0.79
+[2025-10-23T21:11:39.507Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:11:40.061Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:40.784Z] 🟢 Contrato comprado — ID=297560290528, stake=0.36
+[2025-10-23T21:11:41.337Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:42.083Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:11:42.832Z] 🟢 Contrato comprado — ID=297560292368, stake=0.79
+[2025-10-23T21:11:43.327Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:11:44.066Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:44.813Z] 🟢 Contrato comprado — ID=297560294328, stake=0.36
+[2025-10-23T21:11:45.213Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:11:46.073Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:46.808Z] 🟢 Contrato comprado — ID=297560297088, stake=0.36
+[2025-10-23T21:11:47.324Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:11:48.060Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:11:48.802Z] 🟢 Contrato comprado — ID=297560299488, stake=0.79
+[2025-10-23T21:11:49.337Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:50.093Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:11:50.864Z] 🟢 Contrato comprado — ID=297560301428, stake=1.74
+[2025-10-23T21:11:51.247Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:11:52.093Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:11:52.843Z] 🟢 Contrato comprado — ID=297560303868, stake=3.83
+[2025-10-23T21:11:53.337Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:11:54.073Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:11:54.890Z] 🟢 Contrato comprado — ID=297560306288, stake=8.43
+[2025-10-23T21:11:55.521Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:11:56.062Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T21:11:56.830Z] 🟢 Contrato comprado — ID=297560308848, stake=18.55
+[2025-10-23T21:11:57.493Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:11:58.117Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:11:59.303Z] 💰 Resultado: LOSS | Lucro=-8.43
+[2025-10-23T21:11:59.860Z] 🟢 Contrato comprado — ID=297560312548, stake=0.36
+[2025-10-23T21:12:00.071Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:12:00.857Z] 🟢 Contrato comprado — ID=297560313808, stake=0.79
+[2025-10-23T21:12:02.039Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:12:02.191Z] 💰 Resultado: WIN | Lucro=17.68
+[2025-10-23T21:12:02.816Z] 🟢 Contrato comprado — ID=297560316188, stake=1.74
+[2025-10-23T21:12:03.116Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:04.200Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:12:04.961Z] 🟢 Contrato comprado — ID=297560318568, stake=3.83
+[2025-10-23T21:12:05.396Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:12:06.079Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:12:06.824Z] 🟢 Contrato comprado — ID=297560320948, stake=8.43
+[2025-10-23T21:12:07.326Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:12:08.097Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T21:12:08.839Z] 🟢 Contrato comprado — ID=297560323468, stake=18.55
+[2025-10-23T21:12:09.541Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:12:10.056Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:11.106Z] 🟢 Contrato comprado — ID=297560325328, stake=0.36
+[2025-10-23T21:12:11.281Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T21:12:12.078Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:12.862Z] 🟢 Contrato comprado — ID=297560327608, stake=0.36
+[2025-10-23T21:12:13.451Z] 💰 Resultado: WIN | Lucro=17.68
+[2025-10-23T21:12:14.075Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:14.819Z] 🟢 Contrato comprado — ID=297560329648, stake=0.36
+[2025-10-23T21:12:15.942Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:12:16.045Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:16.877Z] 🟢 Contrato comprado — ID=297560331528, stake=0.36
+[2025-10-23T21:12:17.414Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:12:18.055Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:18.785Z] 🟢 Contrato comprado — ID=297560334148, stake=0.36
+[2025-10-23T21:12:19.247Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:20.087Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:12:20.839Z] 🟢 Contrato comprado — ID=297560336068, stake=0.79
+[2025-10-23T21:12:21.781Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:22.110Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:12:23.317Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:24.331Z] 🟢 Contrato comprado — ID=297560340488, stake=1.74
+[2025-10-23T21:12:24.340Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:12:25.087Z] 🟢 Contrato comprado — ID=297560346308, stake=3.83
+[2025-10-23T21:12:25.720Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:12:26.067Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:26.828Z] 🟢 Contrato comprado — ID=297560347908, stake=0.36
+[2025-10-23T21:12:27.456Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:12:28.061Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:12:28.834Z] 🟢 Contrato comprado — ID=297560349808, stake=0.79
+[2025-10-23T21:12:30.082Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:12:30.094Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:12:31.510Z] 🟢 Contrato comprado — ID=297560353888, stake=1.74
+[2025-10-23T21:12:31.945Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:32.077Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:12:32.783Z] 🟢 Contrato comprado — ID=297560355628, stake=3.83
+[2025-10-23T21:12:32.864Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:12:34.082Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:12:34.739Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:12:34.813Z] 🟢 Contrato comprado — ID=297560357548, stake=8.43
+[2025-10-23T21:12:36.056Z] [TICK] lastDigit=6 | stake=18.55 | lastResult=LOSS
+[2025-10-23T21:12:36.853Z] 🟢 Contrato comprado — ID=297560363768, stake=18.55
+[2025-10-23T21:12:36.857Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:12:38.062Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:38.825Z] 🟢 Contrato comprado — ID=297560365648, stake=0.36
+[2025-10-23T21:12:39.313Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T21:12:40.069Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:40.930Z] 🟢 Contrato comprado — ID=297560368148, stake=0.36
+[2025-10-23T21:12:41.341Z] 💰 Resultado: LOSS | Lucro=-18.55
+[2025-10-23T21:12:42.081Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:12:42.834Z] 🟢 Contrato comprado — ID=297560370188, stake=0.79
+[2025-10-23T21:12:43.328Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:44.069Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:12:44.814Z] 🟢 Contrato comprado — ID=297560372128, stake=1.74
+[2025-10-23T21:12:45.505Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:46.084Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:12:46.835Z] 🟢 Contrato comprado — ID=297560374428, stake=3.83
+[2025-10-23T21:12:47.391Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:12:48.073Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:48.826Z] 🟢 Contrato comprado — ID=297560376548, stake=0.36
+[2025-10-23T21:12:49.545Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T21:12:50.079Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:50.887Z] 🟢 Contrato comprado — ID=297560379288, stake=0.36
+[2025-10-23T21:12:51.363Z] 💰 Resultado: WIN | Lucro=3.65
+[2025-10-23T21:12:52.091Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:53.344Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:12:54.212Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:54.600Z] 🟢 Contrato comprado — ID=297560383108, stake=0.36
+[2025-10-23T21:12:54.955Z] 🟢 Contrato comprado — ID=297560383508, stake=0.36
+[2025-10-23T21:12:55.707Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:12:56.114Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:57.058Z] 🟢 Contrato comprado — ID=297560387728, stake=0.36
+[2025-10-23T21:12:58.149Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:12:59.120Z] 🟢 Contrato comprado — ID=297560390248, stake=0.36
+[2025-10-23T21:12:59.805Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:12:59.812Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:00.107Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:00.522Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:01.105Z] 🟢 Contrato comprado — ID=297560393608, stake=0.79
+[2025-10-23T21:13:02.075Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:02.815Z] 🟢 Contrato comprado — ID=297560395628, stake=0.36
+[2025-10-23T21:13:03.620Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:04.167Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:04.964Z] 🟢 Contrato comprado — ID=297560397828, stake=0.36
+[2025-10-23T21:13:06.076Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:06.155Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:13:06.796Z] 🟢 Contrato comprado — ID=297560399768, stake=0.36
+[2025-10-23T21:13:07.365Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:08.077Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:08.796Z] 🟢 Contrato comprado — ID=297560401988, stake=0.36
+[2025-10-23T21:13:09.969Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:10.063Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:10.825Z] 🟢 Contrato comprado — ID=297560404028, stake=0.36
+[2025-10-23T21:13:11.312Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:12.096Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:12.814Z] 🟢 Contrato comprado — ID=297560406148, stake=0.79
+[2025-10-23T21:13:13.360Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:14.071Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:13:14.809Z] 🟢 Contrato comprado — ID=297560408148, stake=1.74
+[2025-10-23T21:13:15.245Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:16.129Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:13:16.874Z] 🟢 Contrato comprado — ID=297560410008, stake=3.83
+[2025-10-23T21:13:17.608Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:13:18.088Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:18.855Z] 🟢 Contrato comprado — ID=297560411908, stake=0.36
+[2025-10-23T21:13:19.334Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T21:13:20.083Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:20.784Z] 🟢 Contrato comprado — ID=297560413388, stake=0.36
+[2025-10-23T21:13:21.330Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T21:13:22.056Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:22.865Z] 🟢 Contrato comprado — ID=297560416468, stake=0.79
+[2025-10-23T21:13:23.439Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:24.067Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:24.988Z] 🟢 Contrato comprado — ID=297560418528, stake=0.36
+[2025-10-23T21:13:25.342Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:26.073Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:26.831Z] 🟢 Contrato comprado — ID=297560420628, stake=0.36
+[2025-10-23T21:13:28.059Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:13:28.076Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:28.902Z] 🟢 Contrato comprado — ID=297560422368, stake=0.36
+[2025-10-23T21:13:29.551Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:30.083Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:30.824Z] 🟢 Contrato comprado — ID=297560424288, stake=0.79
+[2025-10-23T21:13:31.641Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:32.060Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:13:32.850Z] 🟢 Contrato comprado — ID=297560426168, stake=1.74
+[2025-10-23T21:13:33.695Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:34.064Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:34.834Z] 🟢 Contrato comprado — ID=297560428228, stake=0.36
+[2025-10-23T21:13:35.571Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:13:36.068Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:36.847Z] 🟢 Contrato comprado — ID=297560430168, stake=0.79
+[2025-10-23T21:13:36.931Z] 💰 Resultado: LOSS | Lucro=-1.74
+[2025-10-23T21:13:38.055Z] [TICK] lastDigit=6 | stake=1.74 | lastResult=LOSS
+[2025-10-23T21:13:38.963Z] 🟢 Contrato comprado — ID=297560432428, stake=1.74
+[2025-10-23T21:13:39.632Z] 💰 Resultado: LOSS | Lucro=-0.36
+[2025-10-23T21:13:40.061Z] [TICK] lastDigit=6 | stake=3.83 | lastResult=LOSS
+[2025-10-23T21:13:40.825Z] 🟢 Contrato comprado — ID=297560434248, stake=3.83
+[2025-10-23T21:13:41.702Z] 💰 Resultado: LOSS | Lucro=-0.79
+[2025-10-23T21:13:42.088Z] [TICK] lastDigit=6 | stake=8.43 | lastResult=LOSS
+[2025-10-23T21:13:43.053Z] 🟢 Contrato comprado — ID=297560436488, stake=8.43
+[2025-10-23T21:13:43.504Z] 💰 Resultado: WIN | Lucro=1.66
+[2025-10-23T21:13:44.085Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:44.370Z] 💰 Resultado: LOSS | Lucro=-3.83
+[2025-10-23T21:13:44.814Z] 🟢 Contrato comprado — ID=297560438488, stake=0.36
+[2025-10-23T21:13:46.440Z] [TICK] lastDigit=6 | stake=0.79 | lastResult=LOSS
+[2025-10-23T21:13:47.201Z] 🟢 Contrato comprado — ID=297560440608, stake=0.79
+[2025-10-23T21:13:47.826Z] 💰 Resultado: WIN | Lucro=8.03
+[2025-10-23T21:13:48.078Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:48.852Z] 🟢 Contrato comprado — ID=297560442468, stake=0.36
+[2025-10-23T21:13:50.018Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:50.252Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:50.401Z] 💰 Resultado: WIN | Lucro=0.75
+[2025-10-23T21:13:51.063Z] 🟢 Contrato comprado — ID=297560444408, stake=0.36
+[2025-10-23T21:13:52.060Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:52.757Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:52.836Z] 🟢 Contrato comprado — ID=297560446248, stake=0.36
+[2025-10-23T21:13:54.071Z] [TICK] lastDigit=6 | stake=0.36 | lastResult=WIN
+[2025-10-23T21:13:55.141Z] 🟢 Contrato comprado — ID=297560448448, stake=0.36
+[2025-10-23T21:13:55.260Z] Bot parado (stopBot()).
+[2025-10-23T21:13:55.501Z] 💰 Resultado: WIN | Lucro=0.32
+[2025-10-23T21:13:55.555Z] Conexão fechada. Tentando reconectar...
+[2025-10-24T22:25:18.374Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:25:18.934Z] ✅ Autorizado — Saldo: 1243.58
+[2025-10-24T22:25:20.254Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:21.009Z] 🟢 Contrato comprado — ID=297651133488, stake=0.35
+[2025-10-24T22:25:22.273Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:22.973Z] 🟢 Contrato comprado — ID=297651135088, stake=0.35
+[2025-10-24T22:25:24.225Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:24.924Z] 🟢 Contrato comprado — ID=297651137148, stake=0.35
+[2025-10-24T22:25:25.448Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:26.233Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:25:26.913Z] 🟢 Contrato comprado — ID=297651138888, stake=0.77
+[2025-10-24T22:25:27.375Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:25:28.263Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:28.945Z] 🟢 Contrato comprado — ID=297651140668, stake=0.35
+[2025-10-24T22:25:29.298Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:30.232Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:25:30.962Z] 🟢 Contrato comprado — ID=297651142368, stake=0.77
+[2025-10-24T22:25:31.296Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:25:32.237Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:32.916Z] 🟢 Contrato comprado — ID=297651144268, stake=0.35
+[2025-10-24T22:25:33.314Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:25:34.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:34.915Z] 🟢 Contrato comprado — ID=297651145968, stake=0.35
+[2025-10-24T22:25:35.347Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:25:36.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:36.948Z] 🟢 Contrato comprado — ID=297651147748, stake=0.35
+[2025-10-24T22:25:37.290Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:38.218Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:25:38.892Z] 🟢 Contrato comprado — ID=297651149388, stake=0.77
+[2025-10-24T22:25:39.272Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:40.275Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:25:40.960Z] 🟢 Contrato comprado — ID=297651151128, stake=1.69
+[2025-10-24T22:25:41.409Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:42.240Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:25:42.921Z] 🟢 Contrato comprado — ID=297651152948, stake=3.72
+[2025-10-24T22:25:43.280Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:25:44.216Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:25:44.900Z] 🟢 Contrato comprado — ID=297651154808, stake=8.18
+[2025-10-24T22:25:45.350Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:25:46.273Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:46.955Z] 🟢 Contrato comprado — ID=297651156448, stake=0.35
+[2025-10-24T22:25:47.266Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:25:48.236Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:48.936Z] 🟢 Contrato comprado — ID=297651157948, stake=0.35
+[2025-10-24T22:25:49.295Z] 💰 Resultado: WIN | Lucro=7.8
+[2025-10-24T22:25:50.230Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:50.900Z] 🟢 Contrato comprado — ID=297651159728, stake=0.35
+[2025-10-24T22:25:51.289Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:25:52.235Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:52.902Z] 🟢 Contrato comprado — ID=297651161648, stake=0.35
+[2025-10-24T22:25:53.357Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:25:54.219Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:25:54.917Z] 🟢 Contrato comprado — ID=297651163468, stake=0.77
+[2025-10-24T22:25:55.339Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:25:56.244Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:56.944Z] 🟢 Contrato comprado — ID=297651165368, stake=0.35
+[2025-10-24T22:25:57.353Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:25:58.232Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:25:58.949Z] 🟢 Contrato comprado — ID=297651167188, stake=0.35
+[2025-10-24T22:25:59.318Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:26:00.267Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:00.982Z] 🟢 Contrato comprado — ID=297651169408, stake=0.35
+[2025-10-24T22:26:01.392Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:02.263Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:03.166Z] 🟢 Contrato comprado — ID=297651171608, stake=0.35
+[2025-10-24T22:26:03.358Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:04.264Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:04.962Z] 🟢 Contrato comprado — ID=297651173088, stake=0.35
+[2025-10-24T22:26:05.656Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:06.233Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:06.958Z] 🟢 Contrato comprado — ID=297651174908, stake=0.77
+[2025-10-24T22:26:07.725Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:08.246Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:08.912Z] 🟢 Contrato comprado — ID=297651176368, stake=0.35
+[2025-10-24T22:26:09.336Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:10.223Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:10.922Z] 🟢 Contrato comprado — ID=297651177928, stake=0.77
+[2025-10-24T22:26:11.332Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:26:12.247Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:12.963Z] 🟢 Contrato comprado — ID=297651179668, stake=0.35
+[2025-10-24T22:26:13.329Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:14.233Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:14.919Z] 🟢 Contrato comprado — ID=297651181148, stake=0.77
+[2025-10-24T22:26:15.306Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:26:16.240Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:16.939Z] 🟢 Contrato comprado — ID=297651182768, stake=0.35
+[2025-10-24T22:26:17.297Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:18.240Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:18.912Z] 🟢 Contrato comprado — ID=297651184508, stake=0.77
+[2025-10-24T22:26:19.326Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:26:20.225Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:26:20.918Z] 🟢 Contrato comprado — ID=297651186148, stake=1.69
+[2025-10-24T22:26:21.404Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:22.224Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:22.914Z] 🟢 Contrato comprado — ID=297651187728, stake=0.35
+[2025-10-24T22:26:23.278Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:26:24.249Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:24.948Z] 🟢 Contrato comprado — ID=297651189468, stake=0.77
+[2025-10-24T22:26:25.332Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:26:26.268Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:26:26.968Z] 🟢 Contrato comprado — ID=297651190908, stake=1.69
+[2025-10-24T22:26:27.322Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:28.256Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:26:28.944Z] 🟢 Contrato comprado — ID=297651192628, stake=3.72
+[2025-10-24T22:26:29.332Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:26:30.251Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:26:30.937Z] 🟢 Contrato comprado — ID=297651194448, stake=8.18
+[2025-10-24T22:26:31.327Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:26:32.276Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:32.977Z] 🟢 Contrato comprado — ID=297651196208, stake=0.35
+[2025-10-24T22:26:33.381Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:26:34.280Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:34.963Z] 🟢 Contrato comprado — ID=297651197948, stake=0.77
+[2025-10-24T22:26:35.348Z] 💰 Resultado: WIN | Lucro=7.8
+[2025-10-24T22:26:36.289Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:36.974Z] 🟢 Contrato comprado — ID=297651199688, stake=0.35
+[2025-10-24T22:26:37.352Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:38.249Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:38.920Z] 🟢 Contrato comprado — ID=297651201508, stake=0.35
+[2025-10-24T22:26:39.412Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:26:40.308Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:41.002Z] 🟢 Contrato comprado — ID=297651203348, stake=0.35
+[2025-10-24T22:26:41.360Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:42.242Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:42.924Z] 🟢 Contrato comprado — ID=297651205028, stake=0.77
+[2025-10-24T22:26:43.277Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:44.245Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:44.940Z] 🟢 Contrato comprado — ID=297651206548, stake=0.35
+[2025-10-24T22:26:45.457Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:46.253Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:46.939Z] 🟢 Contrato comprado — ID=297651208408, stake=0.35
+[2025-10-24T22:26:47.311Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:26:48.249Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:26:48.920Z] 🟢 Contrato comprado — ID=297651210208, stake=0.77
+[2025-10-24T22:26:49.357Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:26:50.228Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:26:50.947Z] 🟢 Contrato comprado — ID=297651212068, stake=1.69
+[2025-10-24T22:26:51.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:52.234Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:52.918Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:26:52.919Z] 🟢 Contrato comprado — ID=297651213968, stake=0.35
+[2025-10-24T22:26:54.247Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:54.936Z] 🟢 Contrato comprado — ID=297651216048, stake=0.35
+[2025-10-24T22:26:55.371Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:26:56.237Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:56.926Z] 🟢 Contrato comprado — ID=297651217928, stake=0.35
+[2025-10-24T22:26:57.340Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:26:58.248Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:26:58.940Z] 🟢 Contrato comprado — ID=297651219828, stake=0.35
+[2025-10-24T22:26:59.449Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:00.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:00.955Z] 🟢 Contrato comprado — ID=297651221908, stake=0.35
+[2025-10-24T22:27:01.487Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:02.247Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:02.997Z] 🟢 Contrato comprado — ID=297651224188, stake=0.35
+[2025-10-24T22:27:03.414Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:04.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:04.923Z] 🟢 Contrato comprado — ID=297651226028, stake=0.35
+[2025-10-24T22:27:05.647Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:06.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:06.911Z] 🟢 Contrato comprado — ID=297651227628, stake=0.35
+[2025-10-24T22:27:07.367Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:08.265Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:08.958Z] 🟢 Contrato comprado — ID=297651229308, stake=0.35
+[2025-10-24T22:27:09.616Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:27:10.245Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:10.932Z] 🟢 Contrato comprado — ID=297651230808, stake=0.77
+[2025-10-24T22:27:11.322Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:27:12.269Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:27:12.964Z] 🟢 Contrato comprado — ID=297651232688, stake=1.69
+[2025-10-24T22:27:13.352Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:14.275Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:14.991Z] 🟢 Contrato comprado — ID=297651234428, stake=0.35
+[2025-10-24T22:27:15.376Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:27:16.243Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:16.918Z] 🟢 Contrato comprado — ID=297651235928, stake=0.77
+[2025-10-24T22:27:17.379Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:27:18.268Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:18.990Z] 🟢 Contrato comprado — ID=297651237628, stake=0.35
+[2025-10-24T22:27:19.381Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:27:20.227Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:20.929Z] 🟢 Contrato comprado — ID=297651239588, stake=0.77
+[2025-10-24T22:27:21.330Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:27:22.281Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:22.975Z] 🟢 Contrato comprado — ID=297651241388, stake=0.35
+[2025-10-24T22:27:23.422Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:24.225Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:24.922Z] 🟢 Contrato comprado — ID=297651242888, stake=0.35
+[2025-10-24T22:27:25.344Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:27:26.237Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:26.938Z] 🟢 Contrato comprado — ID=297651244628, stake=0.77
+[2025-10-24T22:27:27.353Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:28.232Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:28.909Z] 🟢 Contrato comprado — ID=297651246208, stake=0.35
+[2025-10-24T22:27:29.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:30.248Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:30.974Z] 🟢 Contrato comprado — ID=297651248128, stake=0.35
+[2025-10-24T22:27:31.324Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:27:32.275Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:32.975Z] 🟢 Contrato comprado — ID=297651249728, stake=0.35
+[2025-10-24T22:27:33.290Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:34.253Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:34.948Z] 🟢 Contrato comprado — ID=297651251048, stake=0.35
+[2025-10-24T22:27:35.313Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:36.285Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:36.979Z] 🟢 Contrato comprado — ID=297651252928, stake=0.35
+[2025-10-24T22:27:37.376Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:38.261Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:38.940Z] 🟢 Contrato comprado — ID=297651254768, stake=0.35
+[2025-10-24T22:27:39.360Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:40.209Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:40.929Z] 🟢 Contrato comprado — ID=297651256168, stake=0.35
+[2025-10-24T22:27:41.417Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:42.252Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:42.935Z] 🟢 Contrato comprado — ID=297651258088, stake=0.35
+[2025-10-24T22:27:43.353Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:27:44.226Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:44.895Z] 🟢 Contrato comprado — ID=297651259968, stake=0.77
+[2025-10-24T22:27:45.315Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:46.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:46.920Z] 🟢 Contrato comprado — ID=297651261768, stake=0.35
+[2025-10-24T22:27:47.329Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:48.268Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:48.972Z] 🟢 Contrato comprado — ID=297651263228, stake=0.35
+[2025-10-24T22:27:49.270Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:27:50.218Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:50.933Z] 🟢 Contrato comprado — ID=297651264988, stake=0.77
+[2025-10-24T22:27:51.323Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:52.260Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:52.936Z] 🟢 Contrato comprado — ID=297651266668, stake=0.35
+[2025-10-24T22:27:53.363Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:54.231Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:54.920Z] 🟢 Contrato comprado — ID=297651268748, stake=0.35
+[2025-10-24T22:27:55.398Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:27:56.246Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:27:56.937Z] 🟢 Contrato comprado — ID=297651271788, stake=0.77
+[2025-10-24T22:27:57.317Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:27:58.244Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:27:58.967Z] 🟢 Contrato comprado — ID=297651276048, stake=0.35
+[2025-10-24T22:27:59.330Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:00.244Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:01.392Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:28:02.244Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:28:03.413Z] 🟢 Contrato comprado — ID=297651280988, stake=0.35
+[2025-10-24T22:28:03.685Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:03.907Z] 🟢 Contrato comprado — ID=297651282288, stake=0.77
+[2025-10-24T22:28:04.270Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:28:04.962Z] 🟢 Contrato comprado — ID=297651283348, stake=1.69
+[2025-10-24T22:28:06.234Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:28:06.945Z] 🟢 Contrato comprado — ID=297651285008, stake=3.72
+[2025-10-24T22:28:06.968Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:28:07.786Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:08.243Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:08.946Z] 🟢 Contrato comprado — ID=297651286628, stake=0.35
+[2025-10-24T22:28:09.340Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:28:10.245Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:11.023Z] 🟢 Contrato comprado — ID=297651288448, stake=0.35
+[2025-10-24T22:28:11.342Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:28:12.221Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:12.889Z] 🟢 Contrato comprado — ID=297651289788, stake=0.35
+[2025-10-24T22:28:13.334Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:14.245Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:14.924Z] 🟢 Contrato comprado — ID=297651291568, stake=0.35
+[2025-10-24T22:28:15.487Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:16.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:16.935Z] 🟢 Contrato comprado — ID=297651293128, stake=0.35
+[2025-10-24T22:28:17.282Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:18.241Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:18.944Z] 🟢 Contrato comprado — ID=297651294908, stake=0.35
+[2025-10-24T22:28:19.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:20.211Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:20.908Z] 🟢 Contrato comprado — ID=297651296488, stake=0.35
+[2025-10-24T22:28:21.327Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:28:22.218Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:22.887Z] 🟢 Contrato comprado — ID=297651298288, stake=0.35
+[2025-10-24T22:28:23.311Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:24.194Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:28:24.884Z] 🟢 Contrato comprado — ID=297651299848, stake=0.77
+[2025-10-24T22:28:25.315Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:26.218Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:28:26.902Z] 🟢 Contrato comprado — ID=297651301568, stake=1.69
+[2025-10-24T22:28:27.281Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:28.247Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:28:28.936Z] 🟢 Contrato comprado — ID=297651303188, stake=3.72
+[2025-10-24T22:28:29.278Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:28:30.229Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:28:30.918Z] 🟢 Contrato comprado — ID=297651304908, stake=8.18
+[2025-10-24T22:28:31.291Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:28:32.237Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:32.906Z] 🟢 Contrato comprado — ID=297651306568, stake=0.35
+[2025-10-24T22:28:33.396Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:28:34.230Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:35.371Z] 💰 Resultado: LOSS | Lucro=-8.18
+[2025-10-24T22:28:35.933Z] 🟢 Contrato comprado — ID=297651309388, stake=0.35
+[2025-10-24T22:28:36.238Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:28:36.969Z] 🟢 Contrato comprado — ID=297651309928, stake=0.77
+[2025-10-24T22:28:37.406Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:38.229Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:28:38.897Z] 🟢 Contrato comprado — ID=297651311808, stake=1.69
+[2025-10-24T22:28:39.007Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:40.286Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:28:40.976Z] 🟢 Contrato comprado — ID=297651313028, stake=3.72
+[2025-10-24T22:28:41.342Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:28:42.227Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:43.093Z] 🟢 Contrato comprado — ID=297651314628, stake=0.35
+[2025-10-24T22:28:43.306Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:28:44.194Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:44.888Z] 🟢 Contrato comprado — ID=297651315888, stake=0.35
+[2025-10-24T22:28:45.428Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:28:46.232Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:28:46.909Z] 🟢 Contrato comprado — ID=297651317688, stake=0.77
+[2025-10-24T22:28:47.477Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:48.301Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:28:48.983Z] 🟢 Contrato comprado — ID=297651319288, stake=1.69
+[2025-10-24T22:28:49.279Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:28:50.229Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:28:50.925Z] 🟢 Contrato comprado — ID=297651321008, stake=3.72
+[2025-10-24T22:28:51.312Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:28:52.223Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:28:52.941Z] 🟢 Contrato comprado — ID=297651322548, stake=8.18
+[2025-10-24T22:28:53.504Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:28:54.222Z] [TICK] lastDigit=8 | stake=18 | lastResult=LOSS
+[2025-10-24T22:28:54.954Z] 🟢 Contrato comprado — ID=297651324348, stake=18
+[2025-10-24T22:28:55.333Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:28:56.277Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:28:56.996Z] 🟢 Contrato comprado — ID=297651325888, stake=0.35
+[2025-10-24T22:28:57.292Z] 💰 Resultado: LOSS | Lucro=-8.18
+[2025-10-24T22:28:58.244Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:28:58.914Z] 🟢 Contrato comprado — ID=297651327648, stake=0.77
+[2025-10-24T22:28:58.977Z] 💰 Resultado: WIN | Lucro=17.16
+[2025-10-24T22:29:00.220Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:00.927Z] 🟢 Contrato comprado — ID=297651329328, stake=0.35
+[2025-10-24T22:29:01.425Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:02.241Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:02.964Z] 🟢 Contrato comprado — ID=297651331348, stake=0.35
+[2025-10-24T22:29:03.349Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:04.230Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:04.951Z] 🟢 Contrato comprado — ID=297651333028, stake=0.35
+[2025-10-24T22:29:05.393Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:06.229Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:06.899Z] 🟢 Contrato comprado — ID=297651334808, stake=0.77
+[2025-10-24T22:29:07.382Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:08.224Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:29:08.902Z] 🟢 Contrato comprado — ID=297651336488, stake=1.69
+[2025-10-24T22:29:09.345Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:10.238Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:29:10.946Z] 🟢 Contrato comprado — ID=297651338228, stake=3.72
+[2025-10-24T22:29:11.299Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:12.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:12.899Z] 🟢 Contrato comprado — ID=297651339968, stake=0.35
+[2025-10-24T22:29:13.266Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:29:14.214Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:14.887Z] 🟢 Contrato comprado — ID=297651341648, stake=0.35
+[2025-10-24T22:29:16.271Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:16.304Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:29:16.929Z] 🟢 Contrato comprado — ID=297651343048, stake=0.35
+[2025-10-24T22:29:17.285Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:18.282Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:18.966Z] 🟢 Contrato comprado — ID=297651344708, stake=0.35
+[2025-10-24T22:29:19.255Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:20.241Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:20.924Z] 🟢 Contrato comprado — ID=297651346668, stake=0.77
+[2025-10-24T22:29:21.345Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:22.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:22.918Z] 🟢 Contrato comprado — ID=297651348428, stake=0.35
+[2025-10-24T22:29:23.568Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:24.289Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:24.972Z] 🟢 Contrato comprado — ID=297651350328, stake=0.35
+[2025-10-24T22:29:25.305Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:26.261Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:26.980Z] 🟢 Contrato comprado — ID=297651351988, stake=0.35
+[2025-10-24T22:29:27.317Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:28.222Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:28.905Z] 🟢 Contrato comprado — ID=297651353548, stake=0.35
+[2025-10-24T22:29:29.368Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:30.242Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:30.944Z] 🟢 Contrato comprado — ID=297651355428, stake=0.77
+[2025-10-24T22:29:31.443Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:32.275Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:29:32.973Z] 🟢 Contrato comprado — ID=297651357128, stake=1.69
+[2025-10-24T22:29:33.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:34.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:34.902Z] 🟢 Contrato comprado — ID=297651358928, stake=0.35
+[2025-10-24T22:29:35.343Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:36.225Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:36.910Z] 🟢 Contrato comprado — ID=297651360268, stake=0.35
+[2025-10-24T22:29:37.341Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:29:38.267Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:38.964Z] 🟢 Contrato comprado — ID=297651362228, stake=0.35
+[2025-10-24T22:29:39.280Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:40.234Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:40.969Z] 🟢 Contrato comprado — ID=297651363748, stake=0.77
+[2025-10-24T22:29:41.333Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:42.258Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:42.952Z] 🟢 Contrato comprado — ID=297651365608, stake=0.35
+[2025-10-24T22:29:43.358Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:44.222Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:44.912Z] 🟢 Contrato comprado — ID=297651367188, stake=0.35
+[2025-10-24T22:29:45.335Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:46.234Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:46.924Z] 🟢 Contrato comprado — ID=297651369048, stake=0.35
+[2025-10-24T22:29:47.327Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:48.234Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:48.962Z] 🟢 Contrato comprado — ID=297651370708, stake=0.77
+[2025-10-24T22:29:49.302Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:50.214Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:50.881Z] 🟢 Contrato comprado — ID=297651372168, stake=0.35
+[2025-10-24T22:29:51.284Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:29:52.236Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:52.914Z] 🟢 Contrato comprado — ID=297651373608, stake=0.77
+[2025-10-24T22:29:53.318Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:29:54.216Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:54.906Z] 🟢 Contrato comprado — ID=297651375348, stake=0.35
+[2025-10-24T22:29:55.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:29:56.241Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:29:56.924Z] 🟢 Contrato comprado — ID=297651377088, stake=0.35
+[2025-10-24T22:29:57.329Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:29:58.223Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:29:58.920Z] 🟢 Contrato comprado — ID=297651378888, stake=0.77
+[2025-10-24T22:29:59.293Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:00.300Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:01.020Z] 🟢 Contrato comprado — ID=297651381008, stake=0.35
+[2025-10-24T22:30:01.333Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:02.225Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:03.018Z] 🟢 Contrato comprado — ID=297651383768, stake=0.77
+[2025-10-24T22:30:03.487Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:30:04.191Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:04.882Z] 🟢 Contrato comprado — ID=297651385408, stake=0.35
+[2025-10-24T22:30:05.701Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:06.233Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:06.947Z] 🟢 Contrato comprado — ID=297651387408, stake=0.35
+[2025-10-24T22:30:07.375Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:30:08.241Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:08.914Z] 🟢 Contrato comprado — ID=297651389068, stake=0.77
+[2025-10-24T22:30:09.327Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:10.270Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:30:10.992Z] 🟢 Contrato comprado — ID=297651391028, stake=1.69
+[2025-10-24T22:30:11.319Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:12.223Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:30:13.064Z] 🟢 Contrato comprado — ID=297651392768, stake=3.72
+[2025-10-24T22:30:13.306Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:30:14.220Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:30:15.132Z] 🟢 Contrato comprado — ID=297651394528, stake=8.18
+[2025-10-24T22:30:15.408Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:30:16.228Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:16.942Z] 🟢 Contrato comprado — ID=297651396028, stake=0.35
+[2025-10-24T22:30:17.586Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:30:18.226Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:18.916Z] 🟢 Contrato comprado — ID=297651397728, stake=0.77
+[2025-10-24T22:30:19.636Z] 💰 Resultado: WIN | Lucro=7.8
+[2025-10-24T22:30:20.216Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:21.182Z] 🟢 Contrato comprado — ID=297651399288, stake=0.35
+[2025-10-24T22:30:21.303Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:22.230Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:22.924Z] 🟢 Contrato comprado — ID=297651400768, stake=0.35
+[2025-10-24T22:30:23.256Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:30:24.247Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:24.974Z] 🟢 Contrato comprado — ID=297651402488, stake=0.77
+[2025-10-24T22:30:25.663Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:26.209Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:30:26.874Z] 🟢 Contrato comprado — ID=297651404188, stake=1.69
+[2025-10-24T22:30:27.300Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:28.204Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:28.883Z] 🟢 Contrato comprado — ID=297651405648, stake=0.35
+[2025-10-24T22:30:29.305Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:30:30.272Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:30.941Z] 🟢 Contrato comprado — ID=297651407368, stake=0.77
+[2025-10-24T22:30:31.265Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:30:32.237Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:30:32.893Z] 🟢 Contrato comprado — ID=297651408948, stake=1.69
+[2025-10-24T22:30:33.257Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:34.246Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:34.931Z] 🟢 Contrato comprado — ID=297651410528, stake=0.35
+[2025-10-24T22:30:35.324Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:30:36.265Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:36.959Z] 🟢 Contrato comprado — ID=297651411988, stake=0.77
+[2025-10-24T22:30:37.310Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:30:38.229Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:30:38.913Z] 🟢 Contrato comprado — ID=297651413708, stake=1.69
+[2025-10-24T22:30:39.302Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:40.213Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:30:40.924Z] 🟢 Contrato comprado — ID=297651415428, stake=3.72
+[2025-10-24T22:30:41.382Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:30:42.233Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:42.936Z] 🟢 Contrato comprado — ID=297651417248, stake=0.35
+[2025-10-24T22:30:43.290Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:30:44.226Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:44.927Z] 🟢 Contrato comprado — ID=297651418908, stake=0.35
+[2025-10-24T22:30:45.312Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:30:46.256Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:46.935Z] 🟢 Contrato comprado — ID=297651420588, stake=0.77
+[2025-10-24T22:30:47.307Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:48.284Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:48.986Z] 🟢 Contrato comprado — ID=297651422428, stake=0.35
+[2025-10-24T22:30:49.322Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:50.228Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:50.920Z] 🟢 Contrato comprado — ID=297651423848, stake=0.35
+[2025-10-24T22:30:51.313Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:30:52.215Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:52.892Z] 🟢 Contrato comprado — ID=297651425268, stake=0.35
+[2025-10-24T22:30:53.385Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:54.205Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:54.882Z] 🟢 Contrato comprado — ID=297651427308, stake=0.35
+[2025-10-24T22:30:55.300Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:30:56.212Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:30:56.916Z] 🟢 Contrato comprado — ID=297651428908, stake=0.77
+[2025-10-24T22:30:57.272Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:30:58.191Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:30:58.875Z] 🟢 Contrato comprado — ID=297651430628, stake=0.35
+[2025-10-24T22:30:59.277Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:00.227Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:00.906Z] 🟢 Contrato comprado — ID=297651432528, stake=0.77
+[2025-10-24T22:31:01.364Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:31:02.217Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:03.019Z] 🟢 Contrato comprado — ID=297651435028, stake=0.35
+[2025-10-24T22:31:03.369Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:04.225Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:04.933Z] 🟢 Contrato comprado — ID=297651436508, stake=0.35
+[2025-10-24T22:31:05.481Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:31:06.243Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:06.933Z] 🟢 Contrato comprado — ID=297651438108, stake=0.35
+[2025-10-24T22:31:07.409Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:08.205Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:08.909Z] 🟢 Contrato comprado — ID=297651439668, stake=0.35
+[2025-10-24T22:31:09.359Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:10.200Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:10.882Z] 🟢 Contrato comprado — ID=297651441228, stake=0.35
+[2025-10-24T22:31:11.316Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:12.205Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:12.936Z] 🟢 Contrato comprado — ID=297651442888, stake=0.77
+[2025-10-24T22:31:13.278Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:14.235Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:14.912Z] 🟢 Contrato comprado — ID=297651444748, stake=0.35
+[2025-10-24T22:31:15.329Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:16.228Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:16.910Z] 🟢 Contrato comprado — ID=297651446648, stake=0.35
+[2025-10-24T22:31:17.561Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:31:18.200Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:18.890Z] 🟢 Contrato comprado — ID=297651448168, stake=0.77
+[2025-10-24T22:31:19.294Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:20.207Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:20.888Z] 🟢 Contrato comprado — ID=297651449568, stake=0.35
+[2025-10-24T22:31:21.305Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:22.209Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:22.907Z] 🟢 Contrato comprado — ID=297651451468, stake=0.35
+[2025-10-24T22:31:23.304Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:31:24.236Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:24.928Z] 🟢 Contrato comprado — ID=297651453408, stake=0.35
+[2025-10-24T22:31:25.292Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:26.226Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:26.917Z] 🟢 Contrato comprado — ID=297651455048, stake=0.77
+[2025-10-24T22:31:27.326Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:28.224Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:28.907Z] 🟢 Contrato comprado — ID=297651456668, stake=0.35
+[2025-10-24T22:31:29.287Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:30.251Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:31.290Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:31:31.945Z] 🟢 Contrato comprado — ID=297651459048, stake=0.77
+[2025-10-24T22:31:32.214Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:32.908Z] 🟢 Contrato comprado — ID=297651459928, stake=0.35
+[2025-10-24T22:31:33.299Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:34.199Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:34.895Z] 🟢 Contrato comprado — ID=297651461688, stake=0.35
+[2025-10-24T22:31:35.022Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:31:36.220Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:36.910Z] 🟢 Contrato comprado — ID=297651463268, stake=0.77
+[2025-10-24T22:31:37.309Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:38.230Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:38.903Z] 🟢 Contrato comprado — ID=297651464968, stake=0.35
+[2025-10-24T22:31:39.268Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:40.222Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:40.904Z] 🟢 Contrato comprado — ID=297651466488, stake=0.35
+[2025-10-24T22:31:41.302Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:31:42.224Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:42.900Z] 🟢 Contrato comprado — ID=297651468148, stake=0.35
+[2025-10-24T22:31:43.269Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:44.329Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:45.054Z] 🟢 Contrato comprado — ID=297651470108, stake=0.77
+[2025-10-24T22:31:45.274Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:31:46.218Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:31:46.940Z] 🟢 Contrato comprado — ID=297651471528, stake=0.35
+[2025-10-24T22:31:47.351Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:48.269Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:31:48.948Z] 🟢 Contrato comprado — ID=297651472908, stake=0.77
+[2025-10-24T22:31:49.399Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:31:50.229Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:31:50.902Z] 🟢 Contrato comprado — ID=297651474648, stake=1.69
+[2025-10-24T22:31:51.322Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:31:52.217Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:31:52.914Z] 🟢 Contrato comprado — ID=297651476088, stake=3.72
+[2025-10-24T22:31:53.310Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:31:54.189Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:31:54.860Z] 🟢 Contrato comprado — ID=297651477668, stake=8.18
+[2025-10-24T22:31:55.261Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:31:56.224Z] [TICK] lastDigit=8 | stake=18 | lastResult=LOSS
+[2025-10-24T22:31:56.884Z] 🟢 Contrato comprado — ID=297651479468, stake=18
+[2025-10-24T22:31:57.320Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:31:58.228Z] [TICK] lastDigit=8 | stake=39.6 | lastResult=LOSS
+[2025-10-24T22:31:58.936Z] 🟢 Contrato comprado — ID=297651481168, stake=39.6
+[2025-10-24T22:31:59.305Z] 💰 Resultado: LOSS | Lucro=-8.18
+[2025-10-24T22:32:00.220Z] [TICK] lastDigit=8 | stake=87.12 | lastResult=LOSS
+[2025-10-24T22:32:00.915Z] 🟢 Contrato comprado — ID=297651483088, stake=87.12
+[2025-10-24T22:32:01.314Z] 💰 Resultado: LOSS | Lucro=-18
+[2025-10-24T22:32:02.233Z] [TICK] lastDigit=8 | stake=191.66 | lastResult=LOSS
+[2025-10-24T22:32:02.929Z] 🟢 Contrato comprado — ID=297651485288, stake=191.66
+[2025-10-24T22:32:03.404Z] 💰 Resultado: WIN | Lucro=37.74
+[2025-10-24T22:32:04.226Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:04.912Z] 🟢 Contrato comprado — ID=297651487088, stake=0.35
+[2025-10-24T22:32:05.306Z] 💰 Resultado: WIN | Lucro=83.04
+[2025-10-24T22:32:06.215Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:06.902Z] 🟢 Contrato comprado — ID=297651488768, stake=0.35
+[2025-10-24T22:32:07.344Z] 💰 Resultado: WIN | Lucro=182.68
+[2025-10-24T22:32:08.245Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:08.914Z] 🟢 Contrato comprado — ID=297651490468, stake=0.35
+[2025-10-24T22:32:09.345Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:10.285Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:10.965Z] 🟢 Contrato comprado — ID=297651491988, stake=0.35
+[2025-10-24T22:32:11.327Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:12.217Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:12.895Z] 🟢 Contrato comprado — ID=297651493628, stake=0.77
+[2025-10-24T22:32:13.316Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:14.216Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:14.919Z] 🟢 Contrato comprado — ID=297651495108, stake=0.35
+[2025-10-24T22:32:15.349Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:16.218Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:16.891Z] 🟢 Contrato comprado — ID=297651496828, stake=0.35
+[2025-10-24T22:32:17.311Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:32:18.233Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:18.915Z] 🟢 Contrato comprado — ID=297651498688, stake=0.77
+[2025-10-24T22:32:19.320Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:20.244Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:20.948Z] 🟢 Contrato comprado — ID=297651500328, stake=0.35
+[2025-10-24T22:32:21.268Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:22.210Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:22.888Z] 🟢 Contrato comprado — ID=297651502028, stake=0.35
+[2025-10-24T22:32:23.323Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:32:24.237Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:24.936Z] 🟢 Contrato comprado — ID=297651503708, stake=0.77
+[2025-10-24T22:32:25.313Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:26.233Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:32:26.908Z] 🟢 Contrato comprado — ID=297651505308, stake=1.69
+[2025-10-24T22:32:27.273Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:28.235Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:28.925Z] 🟢 Contrato comprado — ID=297651506948, stake=0.35
+[2025-10-24T22:32:29.313Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:32:30.267Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:30.968Z] 🟢 Contrato comprado — ID=297651508628, stake=0.77
+[2025-10-24T22:32:31.337Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:32:32.231Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:32:32.940Z] 🟢 Contrato comprado — ID=297651510188, stake=1.69
+[2025-10-24T22:32:33.299Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:32:34.212Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:34.876Z] 🟢 Contrato comprado — ID=297651511728, stake=0.35
+[2025-10-24T22:32:35.361Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:32:36.209Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:37.336Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:32:37.817Z] 🟢 Contrato comprado — ID=297651514008, stake=0.35
+[2025-10-24T22:32:38.226Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:38.918Z] 🟢 Contrato comprado — ID=297651514988, stake=0.77
+[2025-10-24T22:32:39.233Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:40.257Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:32:40.918Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:40.948Z] 🟢 Contrato comprado — ID=297651516608, stake=1.69
+[2025-10-24T22:32:42.217Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:32:42.903Z] 🟢 Contrato comprado — ID=297651518508, stake=3.72
+[2025-10-24T22:32:43.242Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:32:44.221Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:44.913Z] 🟢 Contrato comprado — ID=297651520248, stake=0.35
+[2025-10-24T22:32:45.315Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:32:46.254Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:46.963Z] 🟢 Contrato comprado — ID=297651521948, stake=0.35
+[2025-10-24T22:32:47.287Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:32:48.239Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:48.922Z] 🟢 Contrato comprado — ID=297651523348, stake=0.77
+[2025-10-24T22:32:49.328Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:50.235Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:32:50.913Z] 🟢 Contrato comprado — ID=297651525008, stake=1.69
+[2025-10-24T22:32:51.332Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:32:52.239Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:32:52.952Z] 🟢 Contrato comprado — ID=297651526808, stake=3.72
+[2025-10-24T22:32:53.351Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:32:54.234Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:32:54.961Z] 🟢 Contrato comprado — ID=297651528608, stake=8.18
+[2025-10-24T22:32:55.300Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:32:56.226Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:32:56.900Z] 🟢 Contrato comprado — ID=297651529968, stake=0.35
+[2025-10-24T22:32:57.340Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:32:58.219Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:32:58.904Z] 🟢 Contrato comprado — ID=297651532008, stake=0.77
+[2025-10-24T22:32:59.346Z] 💰 Resultado: WIN | Lucro=7.8
+[2025-10-24T22:33:00.243Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:00.929Z] 🟢 Contrato comprado — ID=297651534128, stake=0.35
+[2025-10-24T22:33:01.525Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:02.228Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:02.937Z] 🟢 Contrato comprado — ID=297651536068, stake=0.35
+[2025-10-24T22:33:03.385Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:33:04.225Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:04.879Z] 🟢 Contrato comprado — ID=297651537628, stake=0.35
+[2025-10-24T22:33:05.355Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:06.248Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:06.945Z] 🟢 Contrato comprado — ID=297651539768, stake=0.77
+[2025-10-24T22:33:07.312Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:08.231Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:33:08.923Z] 🟢 Contrato comprado — ID=297651541148, stake=1.69
+[2025-10-24T22:33:09.312Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:10.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:10.913Z] 🟢 Contrato comprado — ID=297651542528, stake=0.35
+[2025-10-24T22:33:11.378Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:33:12.235Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:12.948Z] 🟢 Contrato comprado — ID=297651544468, stake=0.77
+[2025-10-24T22:33:13.319Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:33:14.212Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:14.913Z] 🟢 Contrato comprado — ID=297651546408, stake=0.35
+[2025-10-24T22:33:15.327Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:16.259Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:16.935Z] 🟢 Contrato comprado — ID=297651547828, stake=0.35
+[2025-10-24T22:33:17.338Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:33:18.304Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:18.979Z] 🟢 Contrato comprado — ID=297651549328, stake=0.77
+[2025-10-24T22:33:19.729Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:20.205Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:33:20.906Z] 🟢 Contrato comprado — ID=297651551048, stake=1.69
+[2025-10-24T22:33:21.290Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:22.222Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:22.891Z] 🟢 Contrato comprado — ID=297651552888, stake=0.35
+[2025-10-24T22:33:23.355Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:33:24.214Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:24.953Z] 🟢 Contrato comprado — ID=297651554608, stake=0.35
+[2025-10-24T22:33:25.272Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:33:26.231Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:26.921Z] 🟢 Contrato comprado — ID=297651556068, stake=0.77
+[2025-10-24T22:33:27.339Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:28.226Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:28.916Z] 🟢 Contrato comprado — ID=297651557608, stake=0.35
+[2025-10-24T22:33:29.363Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:30.210Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:30.914Z] 🟢 Contrato comprado — ID=297651559348, stake=0.35
+[2025-10-24T22:33:31.294Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:33:32.241Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:32.916Z] 🟢 Contrato comprado — ID=297651561208, stake=0.77
+[2025-10-24T22:33:33.305Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:34.210Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:34.897Z] 🟢 Contrato comprado — ID=297651562868, stake=0.35
+[2025-10-24T22:33:35.291Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:36.221Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:36.924Z] 🟢 Contrato comprado — ID=297651564508, stake=0.35
+[2025-10-24T22:33:37.304Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:33:38.221Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:38.898Z] 🟢 Contrato comprado — ID=297651566208, stake=0.35
+[2025-10-24T22:33:39.290Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:40.239Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:40.959Z] 🟢 Contrato comprado — ID=297651567768, stake=0.77
+[2025-10-24T22:33:41.294Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:42.230Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:33:42.924Z] 🟢 Contrato comprado — ID=297651569508, stake=1.69
+[2025-10-24T22:33:43.277Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:33:44.223Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:33:45.023Z] 🟢 Contrato comprado — ID=297651571128, stake=3.72
+[2025-10-24T22:33:45.342Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:33:46.230Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:33:46.938Z] 🟢 Contrato comprado — ID=297651572708, stake=8.18
+[2025-10-24T22:33:47.381Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:33:48.264Z] [TICK] lastDigit=8 | stake=18 | lastResult=LOSS
+[2025-10-24T22:33:48.958Z] 🟢 Contrato comprado — ID=297651574268, stake=18
+[2025-10-24T22:33:49.418Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:33:50.233Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:50.921Z] 🟢 Contrato comprado — ID=297651575728, stake=0.35
+[2025-10-24T22:33:51.291Z] 💰 Resultado: LOSS | Lucro=-8.18
+[2025-10-24T22:33:52.252Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:52.949Z] 🟢 Contrato comprado — ID=297651577528, stake=0.77
+[2025-10-24T22:33:53.306Z] 💰 Resultado: WIN | Lucro=17.16
+[2025-10-24T22:33:54.207Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:54.891Z] 🟢 Contrato comprado — ID=297651579068, stake=0.35
+[2025-10-24T22:33:55.294Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:33:56.223Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:33:56.950Z] 🟢 Contrato comprado — ID=297651580848, stake=0.35
+[2025-10-24T22:33:57.383Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:33:58.241Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:33:58.913Z] 🟢 Contrato comprado — ID=297651582508, stake=0.77
+[2025-10-24T22:33:59.287Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:00.240Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:34:00.932Z] 🟢 Contrato comprado — ID=297651584428, stake=1.69
+[2025-10-24T22:34:01.408Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:02.224Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:02.924Z] 🟢 Contrato comprado — ID=297651586368, stake=0.35
+[2025-10-24T22:34:03.365Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:04.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:05.043Z] 🟢 Contrato comprado — ID=297651588128, stake=0.35
+[2025-10-24T22:34:05.335Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:34:06.226Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:06.913Z] 🟢 Contrato comprado — ID=297651589428, stake=0.77
+[2025-10-24T22:34:07.425Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:08.215Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:08.906Z] 🟢 Contrato comprado — ID=297651590968, stake=0.35
+[2025-10-24T22:34:09.410Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:10.222Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:10.918Z] 🟢 Contrato comprado — ID=297651592568, stake=0.77
+[2025-10-24T22:34:11.299Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:12.213Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:12.896Z] 🟢 Contrato comprado — ID=297651594488, stake=0.35
+[2025-10-24T22:34:13.288Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:14.194Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:14.891Z] 🟢 Contrato comprado — ID=297651596428, stake=0.77
+[2025-10-24T22:34:15.313Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:34:16.202Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:34:16.883Z] 🟢 Contrato comprado — ID=297651597808, stake=1.69
+[2025-10-24T22:34:17.265Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:18.210Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:18.904Z] 🟢 Contrato comprado — ID=297651599628, stake=0.35
+[2025-10-24T22:34:19.265Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:20.210Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:20.879Z] 🟢 Contrato comprado — ID=297651601028, stake=0.35
+[2025-10-24T22:34:21.274Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:34:22.185Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:22.848Z] 🟢 Contrato comprado — ID=297651602608, stake=0.77
+[2025-10-24T22:34:23.266Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:24.189Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:34:24.898Z] 🟢 Contrato comprado — ID=297651604128, stake=1.69
+[2025-10-24T22:34:26.253Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:34:26.257Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:26.923Z] 🟢 Contrato comprado — ID=297651606308, stake=3.72
+[2025-10-24T22:34:27.265Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:28.218Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:28.910Z] 🟢 Contrato comprado — ID=297651608048, stake=0.35
+[2025-10-24T22:34:29.299Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:34:30.220Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:30.892Z] 🟢 Contrato comprado — ID=297651609568, stake=0.77
+[2025-10-24T22:34:31.304Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:34:32.217Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:32.917Z] 🟢 Contrato comprado — ID=297651611008, stake=0.35
+[2025-10-24T22:34:33.277Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:34.204Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:34.877Z] 🟢 Contrato comprado — ID=297651612488, stake=0.35
+[2025-10-24T22:34:35.282Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:36.200Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:37.011Z] 🟢 Contrato comprado — ID=297651614448, stake=0.35
+[2025-10-24T22:34:37.339Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:38.221Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:38.906Z] 🟢 Contrato comprado — ID=297651615788, stake=0.77
+[2025-10-24T22:34:39.346Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:40.229Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:40.947Z] 🟢 Contrato comprado — ID=297651617508, stake=0.35
+[2025-10-24T22:34:41.397Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:42.255Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:42.922Z] 🟢 Contrato comprado — ID=297651619128, stake=0.77
+[2025-10-24T22:34:43.339Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:44.238Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:44.911Z] 🟢 Contrato comprado — ID=297651620948, stake=0.35
+[2025-10-24T22:34:45.347Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:34:46.196Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:46.898Z] 🟢 Contrato comprado — ID=297651622648, stake=0.77
+[2025-10-24T22:34:47.280Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:34:48.203Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:34:48.924Z] 🟢 Contrato comprado — ID=297651624228, stake=1.69
+[2025-10-24T22:34:49.282Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:50.185Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:50.869Z] 🟢 Contrato comprado — ID=297651625548, stake=0.35
+[2025-10-24T22:34:51.272Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:34:52.216Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:34:52.906Z] 🟢 Contrato comprado — ID=297651627688, stake=0.77
+[2025-10-24T22:34:53.299Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:34:54.215Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:54.900Z] 🟢 Contrato comprado — ID=297651629088, stake=0.35
+[2025-10-24T22:34:55.243Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:34:56.197Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:56.901Z] 🟢 Contrato comprado — ID=297651630888, stake=0.35
+[2025-10-24T22:34:57.336Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:34:58.217Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:34:58.898Z] 🟢 Contrato comprado — ID=297651632648, stake=0.35
+[2025-10-24T22:34:59.243Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:00.214Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:00.912Z] 🟢 Contrato comprado — ID=297651634708, stake=0.77
+[2025-10-24T22:35:01.323Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:02.243Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:35:02.997Z] 🟢 Contrato comprado — ID=297651636688, stake=1.69
+[2025-10-24T22:35:03.809Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:04.223Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:35:04.910Z] 🟢 Contrato comprado — ID=297651638408, stake=3.72
+[2025-10-24T22:35:05.400Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:35:06.211Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:06.893Z] 🟢 Contrato comprado — ID=297651640108, stake=0.35
+[2025-10-24T22:35:07.424Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:35:08.206Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:08.896Z] 🟢 Contrato comprado — ID=297651641728, stake=0.77
+[2025-10-24T22:35:09.288Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:35:10.234Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:35:10.915Z] 🟢 Contrato comprado — ID=297651643628, stake=1.69
+[2025-10-24T22:35:11.329Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:35:12.214Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:12.891Z] 🟢 Contrato comprado — ID=297651644948, stake=0.35
+[2025-10-24T22:35:13.286Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:35:14.207Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:14.907Z] 🟢 Contrato comprado — ID=297651646488, stake=0.77
+[2025-10-24T22:35:15.398Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:35:16.195Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:16.863Z] 🟢 Contrato comprado — ID=297651648488, stake=0.35
+[2025-10-24T22:35:17.266Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:18.264Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:18.994Z] 🟢 Contrato comprado — ID=297651650508, stake=0.77
+[2025-10-24T22:35:19.261Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:35:20.204Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:35:20.879Z] 🟢 Contrato comprado — ID=297651652008, stake=1.69
+[2025-10-24T22:35:21.263Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:22.210Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:35:22.925Z] 🟢 Contrato comprado — ID=297651653928, stake=3.72
+[2025-10-24T22:35:23.448Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:35:24.185Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:24.891Z] 🟢 Contrato comprado — ID=297651655568, stake=0.35
+[2025-10-24T22:35:25.300Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:35:26.204Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:26.907Z] 🟢 Contrato comprado — ID=297651657348, stake=0.77
+[2025-10-24T22:35:27.408Z] 💰 Resultado: WIN | Lucro=3.55
+[2025-10-24T22:35:28.218Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:28.897Z] 🟢 Contrato comprado — ID=297651659428, stake=0.35
+[2025-10-24T22:35:29.284Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:30.192Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:30.885Z] 🟢 Contrato comprado — ID=297651661468, stake=0.77
+[2025-10-24T22:35:31.306Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:35:32.201Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:35:32.909Z] 🟢 Contrato comprado — ID=297651663328, stake=1.69
+[2025-10-24T22:35:33.293Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:35:34.212Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:34.890Z] 🟢 Contrato comprado — ID=297651665148, stake=0.35
+[2025-10-24T22:35:35.217Z] 💰 Resultado: WIN | Lucro=0.73
+[2025-10-24T22:35:36.250Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:36.940Z] 🟢 Contrato comprado — ID=297651667028, stake=0.35
+[2025-10-24T22:35:37.283Z] 💰 Resultado: WIN | Lucro=1.61
+[2025-10-24T22:35:38.202Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:38.870Z] 🟢 Contrato comprado — ID=297651668728, stake=0.35
+[2025-10-24T22:35:39.311Z] 💰 Resultado: WIN | Lucro=0.31
+[2025-10-24T22:35:40.205Z] [TICK] lastDigit=8 | stake=0.35 | lastResult=WIN
+[2025-10-24T22:35:40.907Z] 🟢 Contrato comprado — ID=297651670288, stake=0.35
+[2025-10-24T22:35:41.308Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:42.259Z] [TICK] lastDigit=8 | stake=0.77 | lastResult=LOSS
+[2025-10-24T22:35:42.955Z] 🟢 Contrato comprado — ID=297651672108, stake=0.77
+[2025-10-24T22:35:43.252Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:44.207Z] [TICK] lastDigit=8 | stake=1.69 | lastResult=LOSS
+[2025-10-24T22:35:44.895Z] 🟢 Contrato comprado — ID=297651673588, stake=1.69
+[2025-10-24T22:35:45.320Z] 💰 Resultado: LOSS | Lucro=-0.35
+[2025-10-24T22:35:46.199Z] [TICK] lastDigit=8 | stake=3.72 | lastResult=LOSS
+[2025-10-24T22:35:46.862Z] 🟢 Contrato comprado — ID=297651675208, stake=3.72
+[2025-10-24T22:35:47.346Z] 💰 Resultado: LOSS | Lucro=-0.77
+[2025-10-24T22:35:48.205Z] [TICK] lastDigit=8 | stake=8.18 | lastResult=LOSS
+[2025-10-24T22:35:48.907Z] 🟢 Contrato comprado — ID=297651676548, stake=8.18
+[2025-10-24T22:35:49.315Z] 💰 Resultado: LOSS | Lucro=-1.69
+[2025-10-24T22:35:50.221Z] [TICK] lastDigit=8 | stake=18 | lastResult=LOSS
+[2025-10-24T22:35:50.915Z] 🟢 Contrato comprado — ID=297651678128, stake=18
+[2025-10-24T22:35:51.277Z] 💰 Resultado: LOSS | Lucro=-3.72
+[2025-10-24T22:35:52.204Z] [TICK] lastDigit=8 | stake=39.6 | lastResult=LOSS
+[2025-10-24T22:35:52.895Z] 🟢 Contrato comprado — ID=297651679808, stake=39.6
+[2025-10-24T22:35:53.360Z] 💰 Resultado: LOSS | Lucro=-8.18
+[2025-10-24T22:35:54.223Z] [TICK] lastDigit=8 | stake=87.12 | lastResult=LOSS
+[2025-10-24T22:35:54.947Z] 🟢 Contrato comprado — ID=297651682408, stake=87.12
+[2025-10-24T22:35:55.257Z] 💰 Resultado: LOSS | Lucro=-18
+[2025-10-24T22:35:56.241Z] [TICK] lastDigit=8 | stake=191.66 | lastResult=LOSS
+[2025-10-24T22:35:56.928Z] 🟢 Contrato comprado — ID=297651683828, stake=191.66
+[2025-10-24T22:35:57.359Z] 💰 Resultado: LOSS | Lucro=-39.6
+[2025-10-24T22:35:58.211Z] [TICK] lastDigit=8 | stake=421.65 | lastResult=LOSS
+[2025-10-24T22:35:58.884Z] 🟢 Contrato comprado — ID=297651685568, stake=421.65
+[2025-10-24T22:35:59.354Z] 💰 Resultado: LOSS | Lucro=-87.12
+[2025-10-24T22:36:00.220Z] [TICK] lastDigit=8 | stake=927.63 | lastResult=LOSS
+[2025-10-24T22:36:00.957Z] ERRO compra: [object Object]
+[2025-10-24T22:36:01.360Z] 💰 Resultado: LOSS | Lucro=-191.66
+[2025-10-24T22:36:02.214Z] [TICK] lastDigit=8 | stake=2040.79 | lastResult=LOSS
+[2025-10-24T22:36:02.938Z] ERRO compra: [object Object]
+[2025-10-24T22:36:03.389Z] 💰 Resultado: LOSS | Lucro=-421.65
+[2025-10-24T22:36:04.214Z] [TICK] lastDigit=8 | stake=4489.74 | lastResult=LOSS
+[2025-10-24T22:36:04.880Z] ERRO compra: [object Object]
+[2025-10-24T22:36:06.266Z] [TICK] lastDigit=8 | stake=9877.43 | lastResult=LOSS
+[2025-10-24T22:36:06.989Z] ERRO compra: [object Object]
+[2025-10-24T22:36:08.250Z] [TICK] lastDigit=8 | stake=21730.35 | lastResult=LOSS
+[2025-10-24T22:36:08.580Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:10.226Z] [TICK] lastDigit=8 | stake=47806.77 | lastResult=LOSS
+[2025-10-24T22:36:10.555Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:12.221Z] [TICK] lastDigit=8 | stake=105174.89 | lastResult=LOSS
+[2025-10-24T22:36:12.540Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:14.207Z] [TICK] lastDigit=8 | stake=231384.76 | lastResult=LOSS
+[2025-10-24T22:36:14.552Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:16.209Z] [TICK] lastDigit=8 | stake=509046.47 | lastResult=LOSS
+[2025-10-24T22:36:16.514Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:18.193Z] [TICK] lastDigit=8 | stake=1119902.23 | lastResult=LOSS
+[2025-10-24T22:36:18.504Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:20.238Z] [TICK] lastDigit=8 | stake=2463784.91 | lastResult=LOSS
+[2025-10-24T22:36:20.544Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:22.210Z] [TICK] lastDigit=8 | stake=5420326.8 | lastResult=LOSS
+[2025-10-24T22:36:22.533Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:23.102Z] Bot parado (stopBot()).
+[2025-10-24T22:36:23.391Z] Conexão fechada. Tentando reconectar...
+[2025-10-24T22:36:30.191Z] Bot parado (stopBot()).
+[2025-10-24T22:36:30.503Z] Bot parado (stopBot()).
+[2025-10-24T22:36:30.768Z] Bot parado (stopBot()).
+[2025-10-24T22:36:31.256Z] Bot parado (stopBot()).
+[2025-10-24T22:36:31.512Z] Bot parado (stopBot()).
+[2025-10-24T22:36:31.759Z] Bot parado (stopBot()).
+[2025-10-24T22:36:32.000Z] Bot parado (stopBot()).
+[2025-10-24T22:36:32.249Z] Bot parado (stopBot()).
+[2025-10-24T22:36:32.487Z] Bot parado (stopBot()).
+[2025-10-24T22:36:32.707Z] Bot parado (stopBot()).
+[2025-10-24T22:36:32.943Z] Bot parado (stopBot()).
+[2025-10-24T22:36:33.175Z] Bot parado (stopBot()).
+[2025-10-24T22:36:33.440Z] Bot parado (stopBot()).
+[2025-10-24T22:36:33.680Z] Bot parado (stopBot()).
+[2025-10-24T22:36:33.928Z] Bot parado (stopBot()).
+[2025-10-24T22:36:34.160Z] Bot parado (stopBot()).
+[2025-10-24T22:36:34.407Z] Bot parado (stopBot()).
+[2025-10-24T22:36:34.688Z] Bot parado (stopBot()).
+[2025-10-24T22:36:38.344Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:36:38.814Z] ✅ Autorizado — Saldo: 795.98
+[2025-10-24T22:36:40.202Z] [TICK] lastDigit=8 | stake=11924718.96 | lastResult=LOSS
+[2025-10-24T22:36:40.486Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:42.226Z] [TICK] lastDigit=8 | stake=26234381.71 | lastResult=LOSS
+[2025-10-24T22:36:42.511Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:44.174Z] [TICK] lastDigit=8 | stake=57715639.76 | lastResult=LOSS
+[2025-10-24T22:36:44.471Z] ERRO proposta: [object Object]
+[2025-10-24T22:36:45.624Z] Bot parado (stopBot()).
+[2025-10-24T22:36:45.882Z] Conexão fechada. Tentando reconectar...
+[2025-10-24T22:37:00.705Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:37:01.181Z] ✅ Autorizado — Saldo: 795.98
+[2025-10-24T22:37:02.166Z] [TICK] lastDigit=8 | stake=126974407.47 | lastResult=LOSS
+[2025-10-24T22:37:02.495Z] ERRO proposta: [object Object]
+[2025-10-24T22:37:04.172Z] [TICK] lastDigit=8 | stake=279343696.43 | lastResult=LOSS
+[2025-10-24T22:37:04.408Z] Bot parado (stopBot()).
+[2025-10-24T22:37:04.446Z] ERRO proposta: [object Object]
+[2025-10-24T22:37:04.653Z] Conexão fechada. Tentando reconectar...
+[2025-10-24T22:37:06.071Z] Bot parado (stopBot()).
+[2025-10-24T22:37:07.040Z] Bot parado (stopBot()).
+[2025-10-24T22:37:07.656Z] Bot parado (stopBot()).
+[2025-10-24T22:37:07.943Z] Bot parado (stopBot()).
+[2025-10-24T22:37:08.207Z] Bot parado (stopBot()).
+[2025-10-24T22:48:55.013Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:48:55.481Z] ✅ Autorizado — Saldo: 795.98
+[2025-10-24T22:48:56.138Z] [TICK] lastDigit=8 | stake=614556132.15 | lastResult=LOSS
+[2025-10-24T22:48:56.445Z] ERRO proposta: [object Object]
+[2025-10-24T22:48:58.128Z] [TICK] lastDigit=8 | stake=1352023490.73 | lastResult=LOSS
+[2025-10-24T22:48:58.422Z] ERRO proposta: [object Object]
+[2025-10-24T22:48:59.960Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:49:00.132Z] [TICK] lastDigit=8 | stake=2974451679.61 | lastResult=LOSS
+[2025-10-24T22:49:00.452Z] ERRO proposta: [object Object]
+[2025-10-24T22:49:00.485Z] ✅ Autorizado — Saldo: 795.98
+[2025-10-24T22:49:01.614Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:49:02.125Z] [TICK] lastDigit=8 | stake=6543793695.14 | lastResult=LOSS
+[2025-10-24T22:49:02.173Z] [TICK] lastDigit=8 | stake=14396346129.31 | lastResult=LOSS
+[2025-10-24T22:49:02.320Z] ✅ Autorizado — Saldo: 795.98
+[2025-10-24T22:49:02.477Z] ERRO proposta: [object Object]
+[2025-10-24T22:49:02.482Z] ERRO proposta: [object Object]
+[2025-10-24T22:49:04.127Z] [TICK] lastDigit=8 | stake=31671961484.48 | lastResult=LOSS
+[2025-10-24T22:49:04.138Z] ERRO proposta: WebSocket is not open: readyState 0 (CONNECTING)
+[2025-10-24T22:49:04.169Z] [TICK] lastDigit=8 | stake=69678315265.86 | lastResult=LOSS
+[2025-10-24T22:49:04.174Z] ERRO proposta: WebSocket is not open: readyState 0 (CONNECTING)
+[2025-10-24T22:49:04.186Z] [TICK] lastDigit=8 | stake=153292293584.89 | lastResult=LOSS
+[2025-10-24T22:49:04.191Z] ERRO proposta: WebSocket is not open: readyState 0 (CONNECTING)
+[2025-10-24T22:49:04.563Z] Conectando à Deriv (R_50)...
+[2025-10-24T22:49:04.583Z] Bot parado (stopBot()).
+[2025-10-24T22:49:04.829Z] Conexão fechada. Tentando reconectar...

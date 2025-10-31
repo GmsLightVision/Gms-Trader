@@ -1,17 +1,1750 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt">
+
 <head>
-  <meta charset="UTF-8" />
-  <title>Gms Trader - Login Deriv</title>
-  <style>
-    body { font-family: Arial; text-align: center; margin-top: 100px; }
-    a { background: #e00; color: white; padding: 12px 20px; border-radius: 6px; text-decoration: none; }
-    a:hover { background: #c00; }
-  </style>
+    <script src="https://cdn.drv.pro/files_js/watchdog.js?v=1760825763"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover,minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gms Trader</title>
+
+    <meta property="og:title" content="Placa Curiosa">
+    <meta property="og:description" content="Robôs de Índices Sintéticos">
+    <meta property="og:url" content="https://gms-trader.vercel.app">
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGvaeJq-d-95W4YLQMrwrEbXsldjxtw5mWskkcliD5rl57dvR9VCaTRBUgg83L_zqkQRNAgRP64_kHLTZr2zhFPtt3s4dIPPf_KL_YNYb55o3twSgCVDUFe90F6oIIe0SsQCwcAVi3U9c2yshcf_0XZCrBMlUtPf7QbKfuWs0fp-imfgo0PqNGnQGNdE/w320-h320/Gms-Trader.png">
+    <meta property="og:type" content="website">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="icon" href="https://placacuriosa.trk.pro/image/favicon1730297879.png" type="image/png">
+    <link rel="stylesheet" href="https://expo.cdn.drv.pro/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://expo.cdn.drv.pro/css/all.css">
+    <link rel="stylesheet" href="https://expo.cdn.drv.pro/css/notiflix-3.2.5.min.css">
+    <link rel="stylesheet" href="https://expo.cdn.drv.pro/css/owl.carousel.min.css">
+    <style type="text/css">
+        /* Estilos existentes mantidos... */
+        .barspinner {
+            background-color: #000;
+            position: fixed;
+            margin-left: -5rem;
+            top: 0px !important;
+            left: 0px !important;
+            right: 0px;
+            bottom: 0px;
+            z-index: 99 !important;
+            opacity: 0.6;
+        }
+
+        .barspinner .loader {
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            margin-left: -5rem;
+            z-index: 9999;
+            border: 5px solid #333;
+            border-top: 5px solid --color4;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            animation: spin 2s linear infinite;
+            border: 1px solid #555;
+            border-top: 5px solid #3a80ff !important;
+        }
+
+        #toolbarContainer {
+            display: none !important;
+        }
+
+        :root {
+            --color1: #ffffff;
+            --color2: #2e2e2e;
+            --color3: #7683FF;
+            --color4: #5862BF;
+            --color5: #C0C1C6;
+            --color6: #001428;
+            --bg-img: url('https://gms-trader.vercel.app');
+            --lg_bg: url('https://gms-trader.vercel.app');
+            --logo: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGvaeJq-d-95W4YLQMrwrEbXsldjxtw5mWskkcliD5rl57dvR9VCaTRBUgg83L_zqkQRNAgRP64_kHLTZr2zhFPtt3s4dIPPf_KL_YNYb55o3twSgCVDUFe90F6oIIe0SsQCwcAVi3U9c2yshcf_0XZCrBMlUtPf7QbKfuWs0fp-imfgo0PqNGnQGNdE/w320-h320/Gms-Trader.png');
+            --usu-img: url(https://gms-trader.vercel.app);
+        }
+
+        html {
+            background-color: var(--color2);
+            background-image: var(--lg_bg), var(--bg-img);
+            background-repeat: no-repeat;
+            background-size: auto 60%, cover;
+            background-attachment: fixed;
+            background-position: center;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        body {
+            background: transparent;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            padding-top: 56px;
+            /* Espaço para a navbar fixa */
+        }
+
+        .bgvideo {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            z-index: -1;
+            object-fit: cover;
+        }
+
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: #0000;
+            border-right: 4px solid #0003;
+        }
+
+        ::-webkit-scrollbar-track:hover {
+            background-color: #0000;
+            border-right: 4px solid #222;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #0000;
+            border-right: 4px solid #0008;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: #0d6efd;
+            border-right: 0px solid #888;
+            box-shadow: inset 0 0 5px 1px #0008;
+            border-radius: 10px;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes userf1 {
+            0% {
+                color: #fff0
+            }
+
+            50% {
+                color: #fff0
+            }
+
+            51% {
+                color: #0f0
+            }
+
+            100% {
+                color: #0f0
+            }
+        }
+
+        @keyframes userf2 {
+            0% {
+                color: #0f0
+            }
+
+            50% {
+                color: #0f0
+            }
+
+            51% {
+                color: #fff0
+            }
+
+            100% {
+                color: #fff0
+            }
+        }
+
+        .border-success {
+            border-color: #0f0 !important;
+        }
+
+        .btn-purple {
+            color: var(--color1);
+            background-color: var(--color3);
+            border-color: #7683FFaa;
+        }
+
+        .btn-purple:hover {
+            color: var(--color1);
+            background-color: var(--color4);
+            border-color: #ffffffaa;
+        }
+
+        .btn-purple:focus,
+        .btn-purple.focus {
+            background-color: var(--color4);
+            color: var(--color1);
+            box-shadow: 0 0 0 .2rem #ffffffaa;
+        }
+
+        .btn-outline-purple {
+            color: var(--color3);
+            background-color: transparent;
+            background-image: none;
+            border-color: var(--color3)
+        }
+
+        .btn-outline-purple:hover {
+            color: var(--color1);
+            background-color: var(--color3);
+            border-color: #7683FFaa;
+        }
+
+        .toolbar {
+            min-width: 0px;
+        }
+
+        /* Novos estilos para Deriv API */
+        .connection-status {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 8px;
+        }
+
+        .connected {
+            background-color: #28a745;
+            box-shadow: 0 0 10px #28a745;
+        }
+
+        .disconnected {
+            background-color: #dc3545;
+            box-shadow: 0 0 10px #dc3545;
+        }
+
+        .connecting {
+            background-color: #ffc107;
+            box-shadow: 0 0 10px #ffc107;
+            animation: pulse 1.5s infinite;
+        }
+
+        .trade-success {
+            background-color: rgba(40, 167, 69, 0.2) !important;
+            transition: all 0.3s ease;
+        }
+
+        .trade-failure {
+            background-color: rgba(220, 53, 69, 0.2) !important;
+            transition: all 0.3s ease;
+        }
+
+        @keyframes pulse {
+            0% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .price-up {
+            color: #28a745 !important;
+            animation: priceChange 0.5s ease;
+        }
+
+        .price-down {
+            color: #dc3545 !important;
+            animation: priceChange 0.5s ease;
+        }
+
+        @keyframes priceChange {
+            0% {
+                background-color: transparent;
+            }
+
+            50% {
+                background-color: rgba(40, 167, 69, 0.1);
+            }
+
+            100% {
+                background-color: transparent;
+            }
+        }
+
+        .digit-high {
+            background-color: rgba(40, 167, 69, 0.3) !important;
+            border-color: #28a745 !important;
+        }
+
+        .digit-low {
+            background-color: rgba(220, 53, 69, 0.3) !important;
+            border-color: #dc3545 !important;
+        }
+
+        /* Estilos para o botão flutuante - ATUALIZADO */
+        .floating-connect-btn {
+            position: fixed;
+            top: 10px;
+            right: 80px;
+            z-index: 1012;
+            border-radius: 15px;
+            padding: 6px 12px;
+            font-size: 12px;
+            font-weight: bold;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Estilos do modal de login */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: #2d2d44;
+            border-radius: 8px;
+            padding: 20px;
+            width: 90%;
+            max-width: 350px;
+            max-height: 60vh;
+            overflow-y: auto;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #3a3a5a;
+            padding-bottom: 15px;
+        }
+
+        .modal-title {
+            font-size: 15px;
+            font-weight: bold;
+            color: #e0e0e0;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: #757583;
+            font-size: 24px;
+            cursor: pointer;
+            padding: 0;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .config-form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .form-label {
+            font-size: 14px;
+            color: #a0a0b0;
+            font-weight: 500;
+        }
+
+        .form-input {
+            background-color: #3a3a5a;
+            border: 1px solid #4CAF50;
+            border-radius: 4px;
+            padding: 10px 12px;
+            color: #e0e0e0;
+            font-size: 14px;
+        }
+
+        .form-select {
+            background-color: #3a3a5a;
+            border: 1px solid #4CAF50;
+            border-radius: 4px;
+            padding: 10px 12px;
+            color: #e0e0e0;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .form-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .btn-save {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 4px 6px;
+            font-weight: bold;
+            cursor: pointer;
+            flex: 1;
+        }
+
+        .btn-cancel {
+            background-color: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 4px 6px;
+            font-weight: bold;
+            cursor: pointer;
+            flex: 1;
+        }
+
+        .status-message {
+            text-align: center;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        .status-message.success {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .status-message.error {
+            background: #e74c3c;
+            color: white;
+        }
+
+        .status-message.info {
+            background: #3498db;
+            color: white;
+        }
+
+        .status-message.warning {
+            background: #f39c12;
+            color: white;
+        }
+
+        .real-data-indicator {
+            background: #4CAF50;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 10px;
+            margin-left: 10px;
+        }
+
+        /* Timeline Styles - ATUALIZADO */
+        .timeline {
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 60px;
+            margin: 10px 0;
+            margin-left: 120px; /* Espaço para os botões do bot */
+        }
+
+        .timeline .line {
+            position: absolute;
+            height: 4px;
+            background: #3a3a5a;
+            top: 50%;
+            left: 0;
+            right: 0;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+
+        .timeline .line.base {
+            background: #3a3a5a;
+        }
+
+        .timeline .line:not(.base) {
+            background: #4CAF50;
+            width: 0%;
+            transition: width 1s ease;
+        }
+
+        .timeline .point {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #3a3a5a;
+            border: 3px solid #3a3a5a;
+            position: relative;
+            z-index: 2;
+            transition: all 0.5s ease;
+        }
+
+        .timeline .point-label {
+            position: absolute;
+            top: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 11px;
+            color: #a0a0b0;
+            white-space: nowrap;
+            font-weight: bold;
+        }
+
+        .timeline.inicio .line:not(.base) {
+            width: 0%;
+        }
+
+        .timeline.meio .line:not(.base) {
+            width: 50%;
+        }
+
+        .timeline.fim .line:not(.base) {
+            width: 100%;
+        }
+
+        .timeline.inicio .point:nth-child(1) {
+            background: #4CAF50;
+            border-color: #4CAF50;
+            box-shadow: 0 0 10px #4CAF50;
+        }
+
+        .timeline.meio .point:nth-child(-n+2) {
+            background: #4CAF50;
+            border-color: #4CAF50;
+            box-shadow: 0 0 10px #4CAF50;
+        }
+
+        .timeline.fim .point {
+            background: #4CAF50;
+            border-color: #4CAF50;
+            box-shadow: 0 0 10px #4CAF50;
+        }
+
+        /* Chart Styles */
+        #chart {
+            min-height: 250px;
+            background: transparent;
+            position: relative;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .digit-sequence-overlay {
+            position: absolute;
+            bottom: 10px;
+            left: 0;
+            right: 0;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding: 0 15px;
+            background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+            z-index: 10;
+        }
+
+        .digit-sequence-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.9);
+            padding: 10px;
+            border-radius: 10px;
+            border: 2px solid #4CAF50;
+            max-width: 180px;
+        }
+
+        .sequence-label {
+            color: #4CAF50;
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .digit-sequence {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 5px;
+            width: 100%;
+        }
+
+        .digit-item {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            font-weight: bold;
+            animation: slideIn 0.3s ease-out;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .digit-item.odd {
+            background: #2196F3;
+        }
+
+        .digit-item.even {
+            background: #FF9800;
+        }
+
+        .digit-item.latest {
+            background: #4CAF50;
+            transform: scale(1.2);
+            box-shadow: 0 0 15px #4CAF50;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(30px) scale(0.8);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateX(0) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .price-indicator {
+            position: absolute;
+            top: 63px;
+            right: 25px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 5px 10px;
+            border-radius: 15px;
+            border: 1px solid #2196F3;
+            z-index: 10;
+        }
+
+        .current-price {
+            color: #2196F3;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        /* Config Modal Styles */
+        .config-section {
+            background: #2d2d44;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .config-section h5 {
+            color: #4CAF50;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #3a3a5a;
+            padding-bottom: 8px;
+        }
+
+        .strategy-params {
+            display: none;
+            background: #3a3a5a;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        .strategy-params.active {
+            display: block;
+        }
+
+        /* Novos estilos para a linha de últimos dígitos */
+        .last-digits-timeline {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background: rgba(0, 0, 0, 0.8);
+            border-top: 1px solid #333;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+        }
+
+        .last-digits-container {
+            display: flex;
+            gap: 2px;
+            animation: moveLeft 0.5s linear;
+        }
+
+        .last-digit {
+            width: 20px;
+            height: 20px;
+            border-radius: 3px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            font-weight: bold;
+            color: white;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .last-digit.odd {
+            background: linear-gradient(135deg, #2196F3, #1976D2);
+        }
+
+        .last-digit.even {
+            background: linear-gradient(135deg, #FF9800, #F57C00);
+        }
+
+        .last-digit.latest {
+            background: linear-gradient(135deg, #4CAF50, #388E3C);
+            transform: scale(1.1);
+            box-shadow: 0 0 8px #4CAF50;
+            z-index: 2;
+        }
+
+        @keyframes moveLeft {
+            from {
+                transform: translateX(20px);
+            }
+
+            to {
+                transform: translateX(0);
+            }
+        }
+
+        .digit-highlight {
+            animation: highlight 0.5s ease;
+        }
+
+        @keyframes highlight {
+            0% {
+                background-color: #4CAF50;
+                transform: scale(1);
+            }
+
+            50% {
+                background-color: #FFEB3B;
+                transform: scale(1.3);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        /* Estilos para o gráfico SVG DINÂMICO */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.19);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .chart-svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Estilos para o gráfico dinâmico */
+        .price-line {
+            transition: stroke 0.5s ease;
+        }
+
+        .current-point {
+            transition: all 0.3s ease;
+            filter: drop-shadow(0 0 3px rgba(76, 175, 80, 0.6));
+        }
+
+        .current-point.pulse {
+            animation: pointPulse 0.6s ease;
+        }
+
+        @keyframes pointPulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.3);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .chart-line path {
+            transition: d 0.5s ease;
+        }
+
+        .grid line {
+            stroke: #333344;
+            stroke-width: 1;
+            stroke-dasharray: 2, 2;
+        }
+
+        .axes text {
+            font-size: 10px;
+            font-family: Arial, sans-serif;
+            fill: #888899;
+        }
+
+        /* 🆕 ESTILOS PARA O BOT R50 */
+        .bot-panel {
+            border: 2px solid #4CAF50;
+            box-shadow: 0 0 15px rgba(76, 175, 80, 0.3);
+        }
+
+        .bot-panel .card-header {
+            background: linear-gradient(135deg, #2d2d44, #1a1a2e) !important;
+            border-bottom: 2px solid #4CAF50;
+        }
+
+        .bot-panel .card-body {
+            background: rgba(45, 45, 68, 0.9);
+        }
+
+        .bot-status-running {
+            animation: botPulse 2s infinite;
+        }
+
+        @keyframes botPulse {
+            0% {
+                box-shadow: 0 0 5px #4CAF50;
+            }
+
+            50% {
+                box-shadow: 0 0 20px #4CAF50;
+            }
+
+            100% {
+                box-shadow: 0 0 5px #4CAF50;
+            }
+        }
+
+        /* 🆕 ESTILOS PARA O PAINEL DO BOT R50 - ATUALIZADO */
+        .bot-status-panel {
+            background: rgba(45, 45, 68, 0.95);
+            border: 2px solid #4CAF50;
+            border-radius: 10px;
+            padding: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 20px rgba(76, 175, 80, 0.2);
+            position: absolute;
+            left: 15px;
+            top: 15px;
+            width: 100px;
+            z-index: 10;
+            opacity: 0;
+        }
+
+        .bot-status-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4px 0;
+            border-bottom: 1px solid #3a3a5a;
+            font-size: 10px;
+        }
+
+        .bot-status-item:last-child {
+            border-bottom: none;
+        }
+
+        .bot-status-label {
+            color: #a0a0b0;
+            font-size: 9px;
+            font-weight: 500;
+        }
+
+        .bot-status-value {
+            color: #ffffff;
+            font-size: 9px;
+            font-weight: bold;
+        }
+
+        .bot-status-badge {
+            padding: 2px 4px;
+            border-radius: 10px;
+            font-size: 8px;
+            font-weight: bold;
+        }
+
+        .bot-status-running {
+            background: #28a745;
+            color: white;
+        }
+
+        .bot-status-stopped {
+            background: #dc3545;
+            color: white;
+        }
+
+        /* 🆕 ESTILOS PARA OS BOTÕES NA TIMELINE - ATUALIZADO */
+        .bot-controls-timeline {
+            position: absolute;
+            left: -100px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            gap: 5px;
+            z-index: 3;
+        }
+
+        .bot-controls-timeline .bot-control-btn {
+            width: 25px;
+            height: 25px;
+            border: none;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0;
+        }
+
+        .bot-controls-timeline .bot-start-btn {
+            border: 1px solid #198754;
+            background: #363b41;
+            color: #198754;
+        }
+
+        .bot-controls-timeline .bot-start-btn:hover {
+            background: #198754;
+            color: white;
+        }
+
+        .bot-controls-timeline .bot-stop-btn {
+            border: 1px solid #c82333;
+            background: #363b41;
+            color: #c82333;
+        }
+
+        .bot-controls-timeline .bot-stop-btn:hover {
+            background: #c82333;
+            color: white;
+        }
+
+        .bot-controls-timeline .bot-config-btn {
+            border: 1px solid #0dcaf0;
+            background: #363b41;
+            color: #0dcaf0;
+        }
+
+        .bot-controls-timeline .bot-config-btn:hover {
+            background: #0dcaf0;
+            color: white;
+        }
+
+        /* 🆕 ESTILOS PARA AS BARRAS DE INDICADORES DE DÍGITOS */
+        .digit-bar {
+            transition-behavior: normal;
+            transition-delay: 0s;
+            transition-duration: 0.8s;
+            transition-property: height;
+            transition-timing-function: ease;
+        }
+
+        /* 🆕 ESTILOS PARA A NAVBAR SUPERIOR */
+        .main-navbar {
+            z-index: 1011;
+            backdrop-filter: blur(15px);
+            background-color: var(--color6) !important;
+        }
+
+        /* 🆕 ESTILOS PARA O BOTÃO DE VÍDEO AULAS */
+        .btn-botinfo {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-botinfo .fa-play {
+            transition: transform 0.3s ease;
+        }
+
+        .btn-botinfo .fa-info {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            transition: transform 0.3s ease;
+        }
+
+        .btn-botinfo:hover .fa-play {
+            transform: scale(0);
+        }
+
+        .btn-botinfo:hover .fa-info {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        /* 🆕 ESTILOS PARA SCROLL VERTICAL NO CONTAINER PRINCIPAL */
+        .container.h-100 {
+            overflow-y: auto;
+            max-height: calc(100vh - 56px);
+        }
+
+        .container.h-100::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .container.h-100::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.1);
+            border-radius: 4px;
+        }
+
+        .container.h-100::-webkit-scrollbar-thumb {
+            background: rgba(76, 175, 80, 0.6);
+            border-radius: 4px;
+        }
+
+        .container.h-100::-webkit-scrollbar-thumb:hover {
+            background: rgba(76, 175, 80, 0.8);
+        }
+    </style>
+    <link type="text/css" rel="stylesheet" charset="UTF-8"
+        href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.2f3WBw8L4SI.L.W.O/am=AMA/d=0/rs=AN8SPfqL6PS6PNiXkx_tGkEQOOALUonRKQ/m=el_main_css">
 </head>
-<body>
-  <h1>🤖 Gms Trader</h1>
-  <p>Clique abaixo para conectar-se com sua conta Deriv:</p>
-  <a href="/api/login">Entrar com Deriv</a>
+
+<body oncontextmenu="return true" class="d-flex" style="position: relative; min-height: 100%; top: 0px;">
+
+    <!-- 🆕 NAVBAR SUPERIOR ATUALIZADA -->
+    <nav class="navbar navbar-expand navbar-dark lex-shrink-1 main-navbar fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand py-0 py-xl-4" href="https://gms-trader.vercel.app">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGvaeJq-d-95W4YLQMrwrEbXsldjxtw5mWskkcliD5rl57dvR9VCaTRBUgg83L_zqkQRNAgRP64_kHLTZr2zhFPtt3s4dIPPf_KL_YNYb55o3twSgCVDUFe90F6oIIe0SsQCwcAVi3U9c2yshcf_0XZCrBMlUtPf7QbKfuWs0fp-imfgo0PqNGnQGNdE/w320-h320/Gms-Trader.png" height="30" alt="Logo">
+            </a>
+            <!-- BOTÃO DE CONECTAR À DERIV MOVIDO PARA A NAVBAR -->
+            <button onclick="showLoginModal()" class="btn btn-primary btn-sm me-2" style="border-radius: 15px; padding: 4px 12px; font-size: 12px;">
+                Conectar à Deriv
+            </button>
+            <button class="btn btn-dark bg-transparent border-0 text-info fw-bold" type="button"
+                data-bs-toggle="offcanvas" data-bs-target=".toolbar">
+                MENU
+            </button>
+        </div>
+    </nav>
+
+    <div id="center"></div>
+    <input type="hidden" id="bots" value="0">
+    <div id="workspace_center"></div>
+    <span id="limits-dialog"></span>
+    <span id="load-dialog"></span>
+    <span id="save-dialog"></span>
+    <span id="integrations-dialog"></span>
+    <span id="chart-dialog"></span>
+    <span id="trading-view-dialog"></span>
+
+    <div>
+        <div class="blocker"></div>
+        <div class="reality-check" style="display: none">
+            <h1 data-i18n-text="Reality Check">Reality Check</h1>
+            <p
+                data-i18n-text="Options trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis.">
+                Options trading can become a real addiction, as can any other activity pushed to its limits. To avoid
+                the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and
+                accounts on a regular basis.</p>
+            <p data-i18n-text="Please specify your preferred reality-check interval in minutes">Please specify your
+                preferred reality-check interval in minutes
+                <input id="realityDuration" interval="1" maxlength="2" value="10">
+            </p>
+            <p id="rc-err" style="display: none;" class="error-msg"
+                data-i18n-text="Please enter a number between 10 to 60.">Please enter a number between 10 to 60.</p>
+            <div>
+                <button bcont="1" class="button" id="continue-trading" data-i18n-text="Continue Trading">Continue
+                    Trading</button>
+                <a id="statement-reality-check" class="button-secondary" href="#">
+                    <span data-i18n-text="Statement">Statement</span>
+                </a>
+                <a id="logout-reality-check" class="button-secondary" href="#">
+                    <span data-i18n-text="Log out">Log out</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container h-100 mt-4">
+        <div class="row justify-content-center h-100">
+            <div class="col operacional p-0 minh-100 bg-transparent d-flex"
+                style="backdrop-filter: blur(0px)!important;">
+                <div class="p-md-3 p-1 m-2 text-light d-flex flex-column ">
+                    <div class="row  mb-md-3 mb-1 py-0 flex-wrap flex-fill">
+                        <div class="col-12 col-md-6 d-flex flex-column-reverse flex-md-column gap-3">
+                            <div class="row">
+                                <div class="col-12 ms-md-auto d-flex flex-column ">
+                                    <div
+                                        class="rounded-4 d-flex container-balance align-items-stretch bg-black flex-wrap border-0 mb-4">
+                                        <div class="py-md-3 px-md-3 py-1 px-2 rounded-4 rounded-end"
+                                            style="background-color:#161616!important;margin-right:-3px;width:calc(65%)!important">
+                                            <small>Saldo</small>
+                                            <h5 class="p-0 m-0 fw-normal app_balance notranslate fw-bold"
+                                                style="font-family:&quot;Chakra Petch&quot;!important;">$ <v
+                                                    style="font-family:&quot;Chakra Petch&quot;!important;">0.00 USD</v>
+                                            </h5>
+                                        </div>
+                                        <div class="py-md-3 px-md-3 py-1 px-2 text-start"
+                                            style="clip-path:none;background-color:#404040!important;width:calc(35% + 3px)!important">
+                                            <small clas="">Lucro/Prejuízo</small>
+                                            <h5 class="p-0 m-0 fw-bold  notranslate"
+                                                style="font-family:&quot;Chakra Petch&quot;!important;">$ <v
+                                                    class="app_profit_loss"
+                                                    style="font-family:&quot;Chakra Petch&quot;!important;">0.00</v>
+                                            </h5>
+                                        </div>
+                                        <div class="py-1 px-2 text-end w-100 text-secondary">
+                                            <small>Operações</small>
+                                            <small class="win text-success h6">0</small> /
+                                            <small class="loss text-danger">0</small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 d-flex container-account gap-2">
+                                    <div class="d-flex flex-column mb-auto">
+                                        <small class="">Status Conexão</small>
+                                        <div class="btn bg-dark account text-light">
+                                            <span class="connection-status disconnected" id="connection-status"></span>
+                                            <h4 class="p-0 m-0 fs-6 d-inline" id="connection-text">Desconectado</h4>
+                                            <span id="realDataIndicator" class="real-data-indicator"
+                                                style="display: none;">DADOS REAIS</span>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex flex-column mb-auto">
+                                        <small class="">Tipo de Conta</small>
+                                        <div class="btn bg-dark account text-light" onclick="showLoginModal()">
+                                            <h4 class="p-0 m-0 fs-6 d-inline" id="account-type-display">Conta Demo</h4>
+                                            <i class="fad fa-sync bg-secondary rounded p-1 ms-1"></i>
+                                            <small class="d-none" id="account-token"></small>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex flex-column mb-auto" style="max-width:50%">
+                                        <small class="mx-auto">Estratégia</small>
+                                        <div class="d-flex gap-1">
+                                            <button type="button" class="btn bg-dark text-light d-flex flex-fill"
+                                                data-bs-toggle="dropdown" aria-expanded="false">
+                                                <text class="nbot me-auto" id="selected-strategy">Selecione</text><i
+                                                    class="fad fa-sync bg-secondary rounded p-1 ms-1"></i>
+                                            </button>
+                                            <!-- 🆕 BOTÃO DE VÍDEO AULAS ADICIONADO -->
+                                            <button data-id=""
+                                                class="btn btn-ls btn-botinfo btn-danger border-dark flex-fill"
+                                                onclick="openVideoTutorials()">
+                                                <div class="fa fa-play"></div>
+                                                <div class="fa fa-info"></div>
+                                            </button>
+                                        </div>
+                                        <ul class="dropdown-menu dropdown-menu-dark strategy-options"
+                                            id="strategies-dropdown">
+                                            <li><span class="dropdown-item-text text-success">🤖 Bot Automático</span>
+                                            </li>
+                                            <!-- 🎯 APENAS BOT R50 -->
+                                            <li class="blockbot ro" data-id="71">
+                                                <a class="dropdown-item botname strategy-option" href="#"
+                                                    data-strategy="r50-bot">Elo-trader</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 🆕 PAINEL DE STATUS DO BOT R50 ATUALIZADO -->
+                            <div class="bot-status-panel" id="botStatusPanel">
+                                <div class="bot-status-item">
+                                    <span class="bot-status-label">Status:</span>
+                                    <span class="bot-status-badge bot-status-stopped" id="botStatus">🔴 Parado</span>
+                                </div>
+                                <div class="bot-status-item">
+                                    <span class="bot-status-label">Perda V:</span>
+                                    <span class="bot-status-value" id="virtualLossCounter">0</span>
+                                </div>
+                                <div class="bot-status-item">
+                                    <span class="bot-status-label">Stake:</span>
+                                    <span class="bot-status-value" id="currentStake">0.35</span>
+                                </div>
+                                <div class="bot-status-item">
+                                    <span class="bot-status-label">Último:</span>
+                                    <span class="bot-status-badge bg-secondary" id="lastResult">N/A</span>
+                                </div>
+                            </div>
+
+                            <div class="bg-dark flex-fill rounded-3 d-flex flex-column text-center text-light">
+                                <div class="d-flex bg-dark rounded-3 rounded-top">
+                                    <ul class="nav nav-tabs border-0 d-md-none px-2 gap-2" id="myTab" role="tablist">
+                                        <li class="nav-item" role="presentation">
+                                            <button class="btn btn-outline-light border-0 btn-sm active" id="bar-tab"
+                                                data-bs-toggle="tab" data-bs-target="#bar-tab-pane" aria-selected="true"
+                                                role="tab"><i class="fad fa-chart-bar"></i></button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="btn btn-outline-light border-0 btn-sm " id="line-tab"
+                                                data-bs-toggle="tab" data-bs-target="#line-tab-pane"
+                                                aria-selected="false" tabindex="-1" role="tab"><i
+                                                    class="fad fa-chart-area"></i></button>
+                                        </li>
+                                    </ul>
+                                    <div class=" flex-fill my-auto">Last Digits: <i class="udig">-</i></div>
+                                    <select class="border-0 bg-dark text-light w-auto py-0 px-1 text-end rounded-3"
+                                        id="periodot">
+                                        <option value="25">25 ticks</option>
+                                        <option value="50">50 ticks</option>
+                                        <option value="100">100 ticks</option>
+                                        <option value="500">500 ticks</option>
+                                        <option value="1000">1000 ticks</option>
+                                    </select>
+                                </div>
+
+                                <div class="tab-content h-100 d-flex flex-column" id="myTabContent">
+                                    <div class="tab-pane collapse show active flex-fill d-md-block" id="bar-tab-pane"
+                                        role="tabpanel" aria-labelledby="#bar-tab">
+                                        <div class="d-flex flex-column h-100 " style="min-height:25vh">
+                                            <div class="d-flex flex-fill flex-row pt-3 px-1 gap-1" id="indicadorbars">
+                                                <!-- Barras serão geradas dinamicamente -->
+                                            </div>
+                                            <div
+                                                class="d-flex px-1 gap-1 small fw-bold position-relative rounded-3 rounded-bottom">
+                                                <div class="col">0</div>
+                                                <div class="col">1</div>
+                                                <div class="col">2</div>
+                                                <div class="col">3</div>
+                                                <div class="col">4</div>
+                                                <div class="col">5</div>
+                                                <div class="col">6</div>
+                                                <div class="col">7</div>
+                                                <div class="col">8</div>
+                                                <div class="col">9</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane collapse flex-fill  d-md-block" id="line-tab-pane"
+                                        role="tabpanel" aria-labelledby="#line-tab">
+                                        <!-- GRÁFICO COM LINHA DE ÚLTIMOS DÍGITOS -->
+                                        <div id="chart" class="d-flex h-100 flex-row align-items-stretch"
+                                            style="min-height: 260.963px;">
+                                            <div class="chart-container">
+                                                <!-- SVG do gráfico DINÂMICO -->
+                                                <svg class="chart-svg" viewBox="0 0 396 246"
+                                                    preserveAspectRatio="xMidYMid meet">
+                                                    <!-- Elementos serão gerados dinamicamente pelo JavaScript -->
+                                                </svg>
+
+                                                <!-- LINHA DE ÚLTIMOS DÍGITOS EM TEMPO REAL -->
+                                                <div class="last-digits-timeline" id="lastDigitsTimeline">
+                                                    <div class="last-digits-container" id="lastDigitsContainer">
+                                                        <!-- Dígitos serão adicionados dinamicamente -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- FIM DO GRÁFICO -->
+                                       
+                                        <div class="price-indicator">
+                                            <span class="current-price" id="currentPrice">0.0000</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="d-flex col-12 col-md-6 flex-column" style="min-height: 180px;">
+                            <div class="row mb-md-3 mb-1 nowrap ">
+                                <div class="col-auto  d-flex gap-2">
+                                    <!-- Botões removidos - Agora estão na timeline -->
+                                </div>
+
+                                <div class="col ps-0">
+                                    <!-- TIMELINE COM RÓTULOS - AGORA COM BOTÕES À ESQUERDA -->
+                                    <div class="timeline mt-0 mb-0 inicio" id="tradingTimeline">
+                                        <!-- BOTÕES DO BOT ADICIONADOS À ESQUERDA - POSIÇÕES TROCADAS -->
+                                        <div class="bot-controls-timeline">
+                                            <!-- Botão de configuração agora à esquerda -->
+                                            <button class="bot-control-btn bot-config-btn" id="botConfigButton">
+                                                ⚙️
+                                            </button>
+                                            <!-- Botões de start/stop agora à direita -->
+                                            <button class="bot-control-btn bot-start-btn" id="startBotBtn">
+                                                ▶
+                                            </button>
+                                            <button class="bot-control-btn bot-stop-btn d-none" id="stopBotBtn">
+                                                ⏹
+                                            </button>
+                                        </div>
+                                        
+                                        <div class="line base"></div>
+                                        <div class="line"></div>
+                                        <div class="point">
+                                            <div class="point-label">Analisando</div>
+                                        </div>
+                                        <div class="point">
+                                            <div class="point-label">Contrato aberto</div>
+                                        </div>
+                                        <div class="point">
+                                            <div class="point-label">Contrato fechado</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card bg-dark text-light  flex-fill">
+                                <div class="card-header p-1 nav gap-2 " role="tablist">
+                                    <small class="btn btn-dark btn-sm totallw position-relative active "
+                                        id="nav-trade-tab" data-bs-toggle="tab" data-bs-target="#nav-trade"
+                                        aria-selected="true" role="tab">
+                                        Trader
+                                    </small>
+                                    <small class="btn btn-dark btn-sm totallw position-relative" id="nav-message-tab"
+                                        data-bs-toggle="tab" data-bs-target="#nav-message" aria-selected="false"
+                                        tabindex="-1" role="tab">
+                                        Notificações
+                                    </small>
+                                    <small class="btn btn-dark btn-reset p-1 px-2 ms-auto" id="resetTradesButton"><i
+                                            class="fad fa-trash-alt"></i></small>
+                                    <small class="btn btn-dark btn-reg p-1 px-2" data-bs-toggle="collapse"
+                                        href="#chartb"><i class="fad fa-chart-line"></i></small>
+                                </div>
+
+                                <div class="row  flex-fill">
+                                    <div class="col">
+                                        <div class="tab-content">
+                                            <div class="tab-pane fade show active" id="nav-trade" role="tabpanel"
+                                                aria-labelledby="#nav-trade-tab">
+                                                <div class="table-responsive"
+                                                    style="max-height: 300px; overflow-y: auto;">
+                                                    <table
+                                                        class="table table-sm table-dark  align-middle table-striped position-relative">
+                                                        <thead class="sticky-top" style="z-index:10">
+                                                            <tr>
+                                                                <th scope="col">Hora</th>
+                                                                <th class=" text-center" scope="col">Tipo</th>
+                                                                <th class="" scope="col">Tick Final</th>
+                                                                <th class="" scope="col">Preço</th>
+                                                                <th class="" scope="col w-100">Resultado</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody class="contracts notranslate" id="tradesTableBody">
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="nav-message" role="tabpanel"
+                                                aria-labelledby="#nav-message-tab">
+                                                <div class="table-responsive"
+                                                    style="max-height: 300px; overflow-y: auto;">
+                                                    <table
+                                                        class="table table-sm table-dark  align-middle position-relative">
+                                                        <thead class="sticky-top" style="z-index:10">
+                                                            <tr>
+                                                                <th style="width:.1em;"></th>
+                                                                <th class="d-none d-md-table-cell w-100" scope="col">
+                                                                    Mensagem</th>
+                                                                <th>
+                                                                    <small class="not notranslate">0</small>
+                                                                </th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody class="notifys" id="notificationsTableBody">
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 🆕 BARRA DE STATUS INFERIOR ADICIONADA -->
+                                <div class="card-footer d-flex gap-1 px-2 notranslate">
+                                    <div class="d-flex my-auto" id="server-status"><span class="online"></span></div>
+                                    <div class="me-auto">Deriv</div>
+                                    <div id="server-time" class="fw-light small "><b>2025-10-30 15:44:25 GMT</b></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Login Deriv -->
+    <div class="modal-overlay" id="loginModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title"> CONECTAR À DERIV</h3>
+                <button class="modal-close" id="closeLoginModal">&times;</button>
+            </div>
+            <div class="config-form">
+                <div class="form-group">
+                    <label class="form-label"> Token de Acesso</label>
+                    <input type="password" class="form-input" id="apiTokenInput"
+                        placeholder="Cole aqui o token da Deriv" style="font-size: 16px;">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label"> Tipo de Conta</label>
+                    <select class="form-select" id="loginAccountType">
+                        <option value="demo">🟦 Conta Virtual (Recomendado)</option>
+                        <option value="real">🟩 Conta Real</option>
+                    </select>
+                </div>
+
+                <div
+                    style="background: #3a3a5a; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #4CAF50;">
+                    <small style="color: #a0a0b0; display: block; text-align: center;">
+                        <a href="https://app.deriv.com/account/api-token" target="_blank"
+                            style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+                            CLIQUE AQUI PARA OBTER SEU TOKEN
+                        </a>
+                    </small>
+                </div>
+
+                <div id="connectionHelp" class="status-message warning" style="display: none;">
+                    💡 <strong>Problemas de conexão?</strong> Tente usar um servidor proxy ou VPN.
+                </div>
+
+                <div class="form-actions">
+                    <button class="btn-cancel" id="cancelLogin">Fechar</button>
+                    <button class="btn-save" id="loginButton">Conectar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Configurações ATUALIZADO -->
+    <div class="modal-overlay" id="configModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">⚙️ CONFIGURAÇÕES DO TRADING</h3>
+                <button class="modal-close" id="closeConfigModal">&times;</button>
+            </div>
+            <div class="config-form">
+                <div class="config-section">
+                    <h5>📊 Configurações de Trading</h5>
+                    <div class="form-group">
+                        <label class="form-label">💰 Stake (Valor da Entrada)</label>
+                        <input type="number" class="form-input" id="configStake" value="0.35" min="0.35" step="0.01">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">🎯 Meta de Profit ($)</label>
+                        <input type="number" class="form-input" id="configProfit" value="100" min="0" step="1">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">🛑 Stop Loss ($)</label>
+                        <input type="number" class="form-input" id="configStopLoss" value="10999" min="0" step="1">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">💱 Moeda</label>
+                        <select class="form-select" id="configCurrency">
+                            <option value="USD">USD - Dólar Americano</option>
+                            <option value="EUR">EUR - Euro</option>
+                            <option value="GBP">GBP - Libra Esterlina</option>
+                            <option value="BTC">BTC - Bitcoin</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="config-section">
+                    <h5>🤖 Estratégia de Trading</h5>
+                    <div class="form-group">
+                        <label class="form-label">Selecionar Estratégia</label>
+                        <select class="form-select" id="configStrategy">
+                            <!-- 🎯 APENAS BOT R50 -->
+                            <option value="r50-bot">🤖 Bot R50</option>
+                        </select>
+                    </div>
+
+                    <!-- 🆕 PARÂMETROS DO BOT R50 -->
+                    <div class="strategy-params active" id="params-r50-bot">
+                        <div class="form-group">
+                            <label class="form-label">🤖 Bot R50 Automático</label>
+                            <small class="text-muted d-block">Estratégia automatizada com martingale e controle de
+                                risco</small>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">⚙️ Configurações Avançadas</label>
+                            <button type="button" class="btn btn-outline-info btn-sm w-100"
+                                id="botConfigButtonFromModal">
+                                Abrir Configurações do Bot
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- NOVA SEÇÃO: Configurações do Gráfico -->
+                <div class="config-section">
+                    <h5>📈 Configurações do Gráfico</h5>
+                    <div class="form-group">
+                        <label class="form-label">Pontos no Gráfico</label>
+                        <input type="range" class="form-range" id="chartDataPoints" min="20" max="100" value="50">
+                        <small class="text-muted" id="chartPointsLabel">50 pontos</small>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Velocidade de Atualização</label>
+                        <select class="form-select" id="chartUpdateSpeed">
+                            <option value="fast">Rápida</option>
+                            <option value="normal" selected>Normal</option>
+                            <option value="slow">Lenta</option>
+                        </select>
+                    </div>
+                    <div class="form-actions">
+                        <button class="btn btn-outline-warning btn-sm" id="clearChartBtn">Limpar Gráfico</button>
+                        <button class="btn btn-outline-info btn-sm" id="exportChartBtn">Exportar Dados</button>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button class="btn-cancel" id="cancelConfig">Cancelar</button>
+                    <button class="btn-save" id="saveConfig">💾 Salvar Configurações</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 🆕 MODAL DE CONFIGURAÇÃO DO BOT R50 -->
+    <div class="modal fade" id="botConfigModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-dark text-white">
+                    <h5 class="modal-title">⚙️ Configurações do Bot R50</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label class="form-label">Stake Inicial</label>
+                            <input type="number" class="form-control" id="botStake" step="0.01" min="0.35" value="0.35">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Stake Após Win</label>
+                            <input type="number" class="form-control" id="botStakeAfterWin" step="0.01" min="0.35"
+                                value="0.35">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Fator Martingale</label>
+                            <input type="number" class="form-control" id="botMartingale" step="0.1" min="1.1"
+                                value="2.2">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Previsão (0-9)</label>
+                            <input type="number" class="form-control" id="botPrediction" min="0" max="9" value="4">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Limite Perda Virtual</label>
+                            <input type="number" class="form-control" id="botVirtualLoss" min="1" max="10" value="2">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Meta ($)</label>
+                            <input type="number" class="form-control" id="botMeta" step="1" min="1" value="100">
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Stop Loss ($)</label>
+                            <input type="number" class="form-control" id="botStopLoss" step="1" min="1" value="10999">
+                        </div>
+                        <div class="col-12">
+                            <label class="form-label">Cooldown (segundos)</label>
+                            <input type="number" class="form-control" id="botCooldown" min="1" max="60" value="2">
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" id="saveBotConfig">Salvar Configurações</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://placacuriosa.trk.pro/js/notiflix-aio-3.2.5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+
+    <script>
+        // 🆕 FUNÇÃO PARA ATIVAR AS FUNCIONALIDADES DOS BOTÕES DE GRÁFICO
+        function activateChartButtons() {
+            const barTab = document.getElementById('bar-tab');
+            const lineTab = document.getElementById('line-tab');
+            const barTabPane = document.getElementById('bar-tab-pane');
+            const lineTabPane = document.getElementById('line-tab-pane');
+
+            if (barTab && lineTab) {
+                barTab.addEventListener('click', function() {
+                    barTab.classList.add('active');
+                    barTab.setAttribute('aria-selected', 'true');
+                    lineTab.classList.remove('active');
+                    lineTab.setAttribute('aria-selected', 'false');
+                    
+                    barTabPane.classList.add('show', 'active');
+                    lineTabPane.classList.remove('show', 'active');
+                    
+                    console.log('Gráfico de barras ativado');
+                });
+
+                lineTab.addEventListener('click', function() {
+                    lineTab.classList.add('active');
+                    lineTab.setAttribute('aria-selected', 'true');
+                    barTab.classList.remove('active');
+                    barTab.setAttribute('aria-selected', 'false');
+                    
+                    lineTabPane.classList.add('show', 'active');
+                    barTabPane.classList.remove('show', 'active');
+                    
+                    console.log('Gráfico de linha ativado');
+                });
+            }
+        }
+
+        // 🆕 FUNÇÃO PARA GERENCIAR OS BOTÕES DO BOT
+        function manageBotButtons() {
+            const startBtn = document.getElementById('startBotBtn');
+            const stopBtn = document.getElementById('stopBotBtn');
+            const configBtn = document.getElementById('botConfigButton');
+
+            if (startBtn && stopBtn) {
+                startBtn.addEventListener('click', function() {
+                    startBtn.classList.add('d-none');
+                    stopBtn.classList.remove('d-none');
+                    console.log('Bot iniciado');
+                    // Adicione aqui a lógica para iniciar o bot
+                });
+
+                stopBtn.addEventListener('click', function() {
+                    stopBtn.classList.add('d-none');
+                    startBtn.classList.remove('d-none');
+                    console.log('Bot parado');
+                    // Adicione aqui a lógica para parar o bot
+                });
+            }
+
+            if (configBtn) {
+                configBtn.addEventListener('click', function() {
+                    // Abre o modal de configurações do bot
+                    const botConfigModal = new bootstrap.Modal(document.getElementById('botConfigModal'));
+                    botConfigModal.show();
+                    console.log('Configurações do bot abertas');
+                });
+            }
+        }
+
+        // 🆕 FUNÇÃO PARA ABRIR VÍDEO AULAS
+        function openVideoTutorials() {
+            const videoLinks = [
+                { title: "Tutorial Bot R50 - Configuração", url: "https://www.youtube.com/watch?v=EXEMPLO1" },
+                { title: "Estratégias de Trading", url: "https://www.youtube.com/watch?v=EXEMPLO2" },
+                { title: "Gerenciamento de Risco", url: "https://www.youtube.com/watch?v=EXEMPLO3" }
+            ];
+
+            // Abre o primeiro vídeo em nova aba
+            window.open(videoLinks[0].url, '_blank');
+
+            // Mostra notificação com opções
+            Notiflix.Confirm.show(
+                'Video Aulas - Bots',
+                'Escolha um tutorial para assistir:',
+                videoLinks.map(link => link.title).join('<br>'),
+                'Abrir Todos',
+                'Fechar',
+                function () {
+                    // Abre todos os vídeos
+                    videoLinks.forEach(link => {
+                        window.open(link.url, '_blank');
+                    });
+                },
+                function () {
+                    // Fechar
+                }
+            );
+        }
+
+        // ✅ CORREÇÃO - ATUALIZAÇÃO EM TEMPO REAL DA DATA/HORA
+        function updateServerTime() {
+            const now = new Date();
+
+            // Formata manualmente para garantir consistência
+            const year = now.getUTCFullYear();
+            const month = String(now.getUTCMonth() + 1).padStart(2, '0');
+            const day = String(now.getUTCDate()).padStart(2, '0');
+            const hours = String(now.getUTCHours()).padStart(2, '0');
+            const minutes = String(now.getUTCMinutes()).padStart(2, '0');
+            const seconds = String(now.getUTCSeconds()).padStart(2, '0');
+
+            const formattedTime = `${year}-${month}-${day} ${hours}:${minutes}:${seconds} GMT`;
+            document.getElementById('server-time').innerHTML = `<b>${formattedTime}</b>`;
+        }
+
+        // 🆕 APLICA TRANSITIONS NAS BARRAS DE DÍGITOS
+        function applyDigitBarTransitions() {
+            const digitBars = document.querySelectorAll('.digit-bar');
+            digitBars.forEach(bar => {
+                bar.style.transitionBehavior = 'normal';
+                bar.style.transitionDelay = '0s';
+                bar.style.transitionDuration = '0.8s';
+                bar.style.transitionProperty = 'height';
+                bar.style.transitionTimingFunction = 'ease';
+            });
+        }
+
+        // INICIALIZAÇÃO QUANDO O DOCUMENTO ESTIVER PRONTO
+        document.addEventListener('DOMContentLoaded', function () {
+            // Ativa as funcionalidades dos botões
+            activateChartButtons();
+            manageBotButtons();
+            applyDigitBarTransitions();
+
+            // Atualiza a hora do servidor a cada segundo
+            setInterval(updateServerTime, 1000);
+            updateServerTime(); // Chamada inicial
+
+            // Reaplica transições quando novas barras forem adicionadas
+            const observer = new MutationObserver(function (mutations) {
+                mutations.forEach(function (mutation) {
+                    if (mutation.addedNodes.length) {
+                        applyDigitBarTransitions();
+                    }
+                });
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+        });
+    </script>
 </body>
+
 </html>

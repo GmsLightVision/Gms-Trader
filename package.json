@@ -1,7 +1,25 @@
 {
-  "name": "gms-trader-vercel",
+  "name": "gms-trader-unificado",
   "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema unificado de trading automático Bot R50",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "bot": "node bot_r50_digitover.js"
+  },
   "dependencies": {
-    "axios": "^1.7.0"
-  }
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "ws": "^8.13.0"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "deriv",
+    "automated"
+  ],
+  "author": "GMS Trader",
+  "license": "MIT"
 }
